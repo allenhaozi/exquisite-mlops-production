@@ -77,10 +77,14 @@ Rich command line utilities make performing complex surgeries on DAGs a snap.
 The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
 ```
 
-*[luigi](https://github.com/spotify/luigi) ![](https://img.shields.io/github/stars/spotify/luigi.svg?style=social)
+* [luigi](https://github.com/spotify/luigi) ![](https://img.shields.io/github/stars/spotify/luigi.svg?style=social)
 ```
 Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build complex pipelines of batch jobs.      
 It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+```
+* [mlrun](https://github.com/mlrun/mlrun) ![](https://img.shields.io/github/stars/mlrun/mlrun.svg?style=social)
+```
+MLRun is an open-source MLOps framework that offers an integrative approach to managing your machine-learning pipelines from early development through model development to full pipeline deployment in production. MLRun offers a convenient abstraction layer to a wide variety of technology stacks while empowering data engineers and data scientists to define the feature and models.
 ```
 
 ### Blog 
