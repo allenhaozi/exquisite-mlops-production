@@ -6,6 +6,12 @@ Build an AI platform using open source as much as possible.
 favor and trust in open source.    
 
 
+# data
+```
+Whoever owns the data pipeline will own the production pipeline for machine learning --Chip Huyen
+```
+
+
 ![MLOps sketch](assets/mlops.png)
 
 ## metadata
@@ -32,7 +38,10 @@ Fluid is an open source Kubernetes-native Distributed Dataset Orchestrator and A
 such as big data and AI applications
 ```
 
-## ML pipeline
+## Training
+```
+No amount of experimentation can ever prove me right; a single experiment can prove me wrong. --Albert Einstein
+```
 
 ### workflow
 * [argo-workflows](https://github.com/argoproj/argo-workflows) ![](https://img.shields.io/github/stars/argoproj/argo-workflows.svg?style=social) 
@@ -87,5 +96,5 @@ It handles dependency resolution, workflow management, visualization, handling f
 MLRun is an open-source MLOps framework that offers an integrative approach to managing your machine-learning pipelines from early development through model development to full pipeline deployment in production. MLRun offers a convenient abstraction layer to a wide variety of technology stacks while empowering data engineers and data scientists to define the feature and models.
 ```
 
-### Blog 
+### Articles
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
