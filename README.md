@@ -37,6 +37,7 @@ enabling computation applications to connect to numerous storage systems through
 Fluid is an open source Kubernetes-native Distributed Dataset Orchestrator and Accelerator for data-intensive applications,
 such as big data and AI applications
 ```
+* [delta lake](https://github.com/delta-io/delta) ![](https://img.shields.io/github/stars/delta-io/delta.svg?style=social) - a storage layer that brings scalable, ACID transactions to Apache Spark and other big-data engines
 
 ## Training
 ```
