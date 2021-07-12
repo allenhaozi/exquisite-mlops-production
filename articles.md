@@ -4,6 +4,9 @@
 
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 + [Open-source Workflow Management Tools: A Survey](https://ploomber.io/posts/survey/)
++ [What We Love About Prefect](https://datarevenue.com/en-blog/what-we-are-loving-about-prefect)
++ [Is Kubeflow Dead?](https://medium.com/mlops-community/is-kubeflow-dead-d82aadba14c0)
+
 ## feature store
 + [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
 + [What are Feature Stores and Why Are They Critical for Scaling Data Science?](https://towardsdatascience.com/what-are-feature-stores-and-why-are-they-critical-for-scaling-data-science-3f9156f7ab4)
