@@ -14,3 +14,6 @@
 + [Choosing a Feature Store: Feast vs Hopsworks](https://towardsdatascience.com/choosing-a-feature-store-feast-vs-hopsworks-143bc8bd84c)
 + [Feast is a Simple, Open Source Feature Store that Every Data Scientist Should Know About](https://medium.com/dataseries/feast-is-a-simple-open-source-feature-store-that-every-data-scientist-should-know-about-c79a2fe97481)
 + [Feast: Setup your own ML Feature store on Kubernetes](https://paravatha.medium.com/feast-setup-your-own-ml-feature-store-on-kubernetes-5b3193c2b62c)
+
+## model debug
++ [Debug Models And Explain Predictions Using Eli5](https://towardsdatascience.com/debug-models-and-explain-predictions-using-eli5-9f856ae74d16)
