@@ -17,3 +17,7 @@
 
 ## model debug
 + [Debug Models And Explain Predictions Using Eli5](https://towardsdatascience.com/debug-models-and-explain-predictions-using-eli5-9f856ae74d16)
+
+## model monitor
++ [Monitor Your Model Performance with Python Streamlit](https://medium.com/dataman-in-ai/monitor-your-model-performance-with-python-streamlit-e0db20f09023)
++ [Monitor! Stop Being A Blind Data-Scientist.](https://towardsdatascience.com/monitor-stop-being-a-blind-data-scientist-ac915286075f)
