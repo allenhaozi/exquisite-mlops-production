@@ -21,3 +21,6 @@
 ## model monitor
 + [Monitor Your Model Performance with Python Streamlit](https://medium.com/dataman-in-ai/monitor-your-model-performance-with-python-streamlit-e0db20f09023)
 + [Monitor! Stop Being A Blind Data-Scientist.](https://towardsdatascience.com/monitor-stop-being-a-blind-data-scientist-ac915286075f)
+
+## data
++ [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
