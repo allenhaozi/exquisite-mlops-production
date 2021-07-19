@@ -1,4 +1,4 @@
-# Awesome of Awesome (#awesome-mlops)
+# Awesome of Awesome 
 ***
 
 
