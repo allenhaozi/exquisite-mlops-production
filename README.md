@@ -96,6 +96,7 @@ It handles dependency resolution, workflow management, visualization, handling f
 ```
 MLRun is an open-source MLOps framework that offers an integrative approach to managing your machine-learning pipelines from early development through model development to full pipeline deployment in production. MLRun offers a convenient abstraction layer to a wide variety of technology stacks while empowering data engineers and data scientists to define the feature and models.
 ```
-
+## logging
++ [whylogs](https://github.com/whylabs/whylogs)
 ### Articles
 + [MLOps Articles](articles.md)
