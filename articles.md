@@ -1,5 +1,8 @@
 # Articles
 
+## principle
++ [AI Infrastructure Alliance Mission Statement](https://ai-infrastructure.org/mission-statement/)
+
 ## workflow
 
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
