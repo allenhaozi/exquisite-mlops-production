@@ -9,6 +9,7 @@
 + [Open-source Workflow Management Tools: A Survey](https://ploomber.io/posts/survey/)
 + [What We Love About Prefect](https://datarevenue.com/en-blog/what-we-are-loving-about-prefect)
 + [Is Kubeflow Dead?](https://medium.com/mlops-community/is-kubeflow-dead-d82aadba14c0)
++ [Picking A Kubernetes Orchestrator: Airflow, Argo, and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
 
 ## feature store
 + [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
