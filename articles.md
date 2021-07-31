@@ -2,6 +2,8 @@
 
 ## principle
 + [AI Infrastructure Alliance Mission Statement](https://ai-infrastructure.org/mission-statement/)
++ [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0)
+
 
 ## workflow
 
