@@ -31,3 +31,4 @@
 
 ## data
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
++ [Five Predictions for the Future of the Modern Data Stack](https://medium.com/@jordan_88855/five-predictions-for-the-future-of-the-modern-data-stack-435b4e911413)
