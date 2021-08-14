@@ -4,7 +4,8 @@
 + [AI Infrastructure Alliance Mission Statement](https://ai-infrastructure.org/mission-statement/)
 + [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0)
 
-
+## overview
++ [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 ## workflow
 
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
