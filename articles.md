@@ -26,6 +26,7 @@
 ## model debug
 + [Debug Models And Explain Predictions Using Eli5](https://towardsdatascience.com/debug-models-and-explain-predictions-using-eli5-9f856ae74d16)
 + [Top ten ways to tackle overfitting models](https://shivanishimpi9.medium.com/top-ten-ways-to-tackle-overfitting-models-in-machine-learning-a5f109c3976b)
++ [Machine Learning Model Dashboard](https://towardsdatascience.com/machine-learning-model-dashboard-4544daa50848)
 ## model monitor
 + [Monitor Your Model Performance with Python Streamlit](https://medium.com/dataman-in-ai/monitor-your-model-performance-with-python-streamlit-e0db20f09023)
 + [Monitor! Stop Being A Blind Data-Scientist.](https://towardsdatascience.com/monitor-stop-being-a-blind-data-scientist-ac915286075f)
