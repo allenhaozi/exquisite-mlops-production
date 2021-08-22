@@ -6,6 +6,7 @@
 + [10 ML Project and AI Project Ideas for 2021](https://jelvix.medium.com/10-ml-project-and-ai-project-ideas-for-2021-133bc59ae545)
 ## overview
 + [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
++ [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
 ## workflow
 
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
