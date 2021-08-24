@@ -36,6 +36,7 @@
 + [Top Challenges in MLOps Monitoring](https://techninjahere.medium.com/top-challenges-in-mlops-monitoring-573c0dd2a411)
 ## model validation
 +[Choose the Best ML Model Based On Visualizations](https://towardsdatascience.com/choose-best-ml-model-based-on-visualization-ed6398ac3005)
++ [Top MLOps Model Monitoring Tools — 2021](https://techninjahere.medium.com/top-mlops-model-monitoring-tools-2021-e9f616310ffd)
 
 ## data
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
