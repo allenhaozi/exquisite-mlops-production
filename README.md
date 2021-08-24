@@ -37,7 +37,18 @@ enabling computation applications to connect to numerous storage systems through
 Fluid is an open source Kubernetes-native Distributed Dataset Orchestrator and Accelerator for data-intensive applications,
 such as big data and AI applications
 ```
-* [delta lake](https://github.com/delta-io/delta) ![](https://img.shields.io/github/stars/delta-io/delta.svg?style=social) - a storage layer that brings scalable, ACID transactions to Apache Spark and other big-data engines
+* [delta lake](https://github.com/delta-io/delta) ![](https://img.shields.io/github/stars/delta-io/delta.svg?style=social)
+```
+  a storage layer that brings scalable, ACID transactions to Apache Spark and other big-data engines
+```
+* [dagster](https://github.com/dagster-io/dagster) ![](https://img.shields.io/github/stars/dagster-io/dagster.svg?style=social) 
+```
+Dagster is a data orchestrator for machine learning, analytics, and ETL
+
+Dagster lets you define pipelines in terms of the data flow between reusable, logical components, then test locally and run anywhere. With a unified view of pipelines and the assets they produce, Dagster can schedule and orchestrate Pandas, Spark, SQL, or anything else that Python can invoke.
+
+Dagster is designed for data platform engineers, data engineers, and full-stack data scientists. Building a data platform with Dagster makes your stakeholders more independent and your systems more robust. Developing data pipelines with Dagster makes testing easier and deploying faster.
+```
 
 ## Training
 ```
