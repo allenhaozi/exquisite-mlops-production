@@ -23,12 +23,13 @@
 + [Choosing a Feature Store: Feast vs Hopsworks](https://towardsdatascience.com/choosing-a-feature-store-feast-vs-hopsworks-143bc8bd84c)
 + [Feast is a Simple, Open Source Feature Store that Every Data Scientist Should Know About](https://medium.com/dataseries/feast-is-a-simple-open-source-feature-store-that-every-data-scientist-should-know-about-c79a2fe97481)
 + [Feast: Setup your own ML Feature store on Kubernetes](https://paravatha.medium.com/feast-setup-your-own-ml-feature-store-on-kubernetes-5b3193c2b62c)
-
++ [Top MLOps Feature Stores — 2021](https://techninjahere.medium.com/top-mlops-feature-store-2021-c71d3a9f820c)
 ## model debug
 + [Debug Models And Explain Predictions Using Eli5](https://towardsdatascience.com/debug-models-and-explain-predictions-using-eli5-9f856ae74d16)
 + [Top ten ways to tackle overfitting models](https://shivanishimpi9.medium.com/top-ten-ways-to-tackle-overfitting-models-in-machine-learning-a5f109c3976b)
 + [Machine Learning Model Dashboard](https://towardsdatascience.com/machine-learning-model-dashboard-4544daa50848)
 ## model monitor
++ [Top MLOps Model Monitoring Tools — 2021](https://techninjahere.medium.com/top-mlops-model-monitoring-tools-2021-e9f616310ffd)
 + [Monitor Your Model Performance with Python Streamlit](https://medium.com/dataman-in-ai/monitor-your-model-performance-with-python-streamlit-e0db20f09023)
 + [Monitor! Stop Being A Blind Data-Scientist.](https://towardsdatascience.com/monitor-stop-being-a-blind-data-scientist-ac915286075f)
 + [Monitoring Machine Learning models](https://towardsdatascience.com/monitoring-machine-learning-models-62d5833c7ecc)
@@ -36,9 +37,10 @@
 + [Top Challenges in MLOps Monitoring](https://techninjahere.medium.com/top-challenges-in-mlops-monitoring-573c0dd2a411)
 ## model validation
 +[Choose the Best ML Model Based On Visualizations](https://towardsdatascience.com/choose-best-ml-model-based-on-visualization-ed6398ac3005)
-+ [Top MLOps Model Monitoring Tools — 2021](https://techninjahere.medium.com/top-mlops-model-monitoring-tools-2021-e9f616310ffd)
 
-## data
+# data
+## data versioning
++ [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
 + [Five Predictions for the Future of the Modern Data Stack](https://medium.com/@jordan_88855/five-predictions-for-the-future-of-the-modern-data-stack-435b4e911413)
 + [A Primer on Data Drift](https://medium.com/data-from-the-trenches/a-primer-on-data-drift-18789ef252a6)
