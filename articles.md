@@ -15,7 +15,7 @@
 + [Is Kubeflow Dead?](https://medium.com/mlops-community/is-kubeflow-dead-d82aadba14c0)
 + [Picking A Kubernetes Orchestrator: Airflow, Argo, and Prefect](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b)
 + [Top Open source MLOps Tools — 2021](https://techninjahere.medium.com/top-11-open-source-mlops-tools-2021-d1b6530e512e)
-
++ [We’re All Using Airflow Wrong and How to Fix It](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 ## feature store
 + [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
 + [What are Feature Stores and Why Are They Critical for Scaling Data Science?](https://towardsdatascience.com/what-are-feature-stores-and-why-are-they-critical-for-scaling-data-science-3f9156f7ab4)
@@ -47,3 +47,7 @@
 
 ### data monitoring
 + [A Quick Start To Data Quality Monitoring For Machine Learning](https://towardsdatascience.com/a-quickstart-guideto-high-quality-data-4112ee8c498b)
+
+
+# tools
++ []()
