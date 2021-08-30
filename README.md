@@ -19,6 +19,20 @@ Whoever owns the data pipeline will own the production pipeline for machine lear
 ```
 DataHub is an open-source metadata platform for the modern data stack
 ```
+* [openmetadata](https://github.com/open-metadata/openmetadata) ![](https://img.shields.io/github/stars/open-metadata/openmetadata.svg?style=social)
+```
+Metadata schemas - defines core abstractions and vocabulary for metadata with schemas for Types, Entities, Relationships between entities. This is the foundation of the Open Metadata Standard.
+
+Metadata store - stores metadata graph that connects data assets, user, and tool generated metadata.
+
+Metadata APIs - for producing and consuming metadata built on schemas for User Interfaces and Integration of tools, systems, and services.
+
+Ingestion framework - a pluggable framework for integrating tools and ingesting metadata to the metadata store. Ingestion framework already supports well know data warehouses - Google BigQuery, Snowflake, Amazon Redshift, and Apache Hive, and databases - MySQL, Postgres, Oracle, and MSSQL.
+
+OpenMetadata User Interface - one single place for users to discover, and collaborate on all data.
+```
+
+
 ## feature store
 * [feast](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social)
 ```
