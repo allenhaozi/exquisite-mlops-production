@@ -42,6 +42,7 @@
 + [DataOps Technologies — Why Meta-Orchestration?](https://medium.com/technexthere/dataops-technologies-part-1-2021-d6fd59a76896)
 ## metadata
 + [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
++ [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
