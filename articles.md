@@ -17,6 +17,7 @@
 + [Top Open source MLOps Tools — 2021](https://techninjahere.medium.com/top-11-open-source-mlops-tools-2021-d1b6530e512e)
 + [We’re All Using Airflow Wrong and How to Fix It](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 ## feature store
++ [Feature Store Milestones](https://medium.com/data-for-ai/feature-store-milestones-cca2bafe6e9c)
 + [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
 + [What are Feature Stores and Why Are They Critical for Scaling Data Science?](https://towardsdatascience.com/what-are-feature-stores-and-why-are-they-critical-for-scaling-data-science-3f9156f7ab4)
 + [Building Real-Time ML Pipelines with a Feature Store](https://medium.com/data-for-ai/building-real-time-ml-pipelines-with-a-feature-store-9f90091eeb4)
@@ -43,6 +44,7 @@
 ## metadata
 + [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
 + [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
++ [Data Governance Technologies](https://medium.com/technexthere/data-governance-technologies-internal-edb033641422)
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
