@@ -31,7 +31,10 @@ Ingestion framework - a pluggable framework for integrating tools and ingesting 
 
 OpenMetadata User Interface - one single place for users to discover, and collaborate on all data.
 ```
-
+* [Amundsen](https://github.com/amundsen-io/amundsen) ![](https://img.shields.io/github/stars/amundsen-io/amundsen.svg?style=social)
+```
+Amundsen is a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data. It does that today by indexing data resources (tables, dashboards, streams, etc.) and powering a page-rank style search based on usage patterns (e.g. highly queried tables show up earlier than less queried tables). Think of it as Google search for data. 
+```
 
 ## feature store
 * [feast](https://github.com/feast-dev/feast)  ![](https://img.shields.io/github/stars/feast-dev/feast.svg?style=social)
