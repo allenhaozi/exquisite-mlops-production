@@ -17,6 +17,7 @@
 + [Top Open source MLOps Tools — 2021](https://techninjahere.medium.com/top-11-open-source-mlops-tools-2021-d1b6530e512e)
 + [We’re All Using Airflow Wrong and How to Fix It](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 + [A New Way of Building Machine Learning Pipelines](https://pub.towardsai.net/a-new-way-of-building-machine-learning-pipelines-54700ed1aded)
+[Airflow Summit 2021 takeaways](https://medium.com/apache-airflow/airflow-summit-takeaways-c3e703a104c1)
 ## feature store
 + [Feature Store Milestones](https://medium.com/data-for-ai/feature-store-milestones-cca2bafe6e9c)
 + [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
