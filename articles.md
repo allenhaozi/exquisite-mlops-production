@@ -41,9 +41,10 @@
 ## model validation
 +[Choose the Best ML Model Based On Visualizations](https://towardsdatascience.com/choose-best-ml-model-based-on-visualization-ed6398ac3005)
 
-# data
+# data mesh
 + [DataOps Technologies — Why Meta-Orchestration?](https://medium.com/technexthere/dataops-technologies-part-1-2021-d6fd59a76896)
 + [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
++ [Data Mesh Set](https://datameshlearning.substack.com/p/favorites)
 ## metadata
 + [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
 + [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
