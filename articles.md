@@ -7,6 +7,7 @@
 ## overview
 + [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 + [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
++ [MLOps: A Complete Guide to Machine Learning Operations | MLOps vs DevOps](https://ashutoshtr.medium.com/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops-70c3626ce7ed)
 ## workflow
 
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
@@ -39,12 +40,13 @@
 + [MLOps Monitoring Market Review](https://towardsdatascience.com/mlops-monitoring-market-review-66904f0863bb)
 + [Top Challenges in MLOps Monitoring](https://techninjahere.medium.com/top-challenges-in-mlops-monitoring-573c0dd2a411)
 ## model validation
-+[Choose the Best ML Model Based On Visualizations](https://towardsdatascience.com/choose-best-ml-model-based-on-visualization-ed6398ac3005)
++ [Choose the Best ML Model Based On Visualizations](https://towardsdatascience.com/choose-best-ml-model-based-on-visualization-ed6398ac3005)
 
 # data mesh
 + [DataOps Technologies — Why Meta-Orchestration?](https://medium.com/technexthere/dataops-technologies-part-1-2021-d6fd59a76896)
 + [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 + [Data Mesh Set](https://datameshlearning.substack.com/p/favorites)
++ [Data Mesh: The Four Principles of a Distributed Architecture](https://medium.datadriveninvestor.com/data-mesh-the-four-principles-of-a-distributed-architecture-59514eba1e52)
 ## metadata
 + [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
 + [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
