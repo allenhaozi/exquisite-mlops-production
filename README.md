@@ -132,5 +132,38 @@ MLRun is an open-source MLOps framework that offers an integrative approach to m
 ```
 This is the development repository of Triton, a language and compiler for writing highly efficient custom Deep-Learning primitives. The aim of Triton is to provide an open-source environment to write fast code at higher productivity than CUDA, but also with higher flexibility than other existing DSLs.
 ```
+
+# model
+
+## Model Explainability
++ [InterpretML](https://github.com/interpretml/interpret/) ![](https://img.shields.io/github/stars/interpretml/interpret.svg?style=social) 
+```
+In the beginning machines learned in darkness, and data scientists struggled in the void to explain them.
+Let there be light.
+InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems. InterpretML helps you understand your model's global behavior, or understand the reasons behind individual predictions.
+
+Interpretability is essential for:
+
+Model debugging - Why did my model make this mistake?
+Feature Engineering - How can I improve my model?
+Detecting fairness issues - Does my model discriminate?
+Human-AI cooperation - How can I understand and trust the model's decisions?
+Regulatory compliance - Does my model satisfy legal requirements?
+High-risk applications - Healthcare, finance, judicial, ...
+```
++ [shap](https://github.com/slundberg/shap) ![](https://img.shields.io/github/stars/slundberg/shap.svg?style=social)
+```
+SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions (see papers for details and citations).
+```
+
++ [lime](https://github.com/marcotcr/lime) ![](https://img.shields.io/github/stars/marcotcr/lime.svg?style=social)
+```
+This project is about explaining what machine learning classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images, with a package called lime (short for local interpretable model-agnostic explanations). Lime is based on the work presented in this paper (bibtex here for citation). Here is a link to the promo video:
+```
++ [eli5](https://github.com/TeamHG-Memex/eli5) ![](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg)
+```
+ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions.
+
+```
 ### Articles
 + [MLOps Articles](articles.md)
