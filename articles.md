@@ -62,6 +62,9 @@
 ### data monitoring
 + [A Quick Start To Data Quality Monitoring For Machine Learning](https://towardsdatascience.com/a-quickstart-guideto-high-quality-data-4112ee8c498b)
 
+## ETL
++ [ETL Testing in a nutshell](https://medium.com/engineered-publicis-sapient/etl-testing-in-a-nutshell-4c9d4ca35ccb)
+
 
 # tools
 + []()
