@@ -68,3 +68,6 @@
 
 # mesh
 + [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
+
+# compute
++ [How to guide: Set up, Manage & Monitor Spark on Kubernetes](https://towardsdatascience.com/how-to-guide-set-up-manage-monitor-spark-on-kubernetes-with-code-examples-c5364ad3aba2)
