@@ -74,3 +74,6 @@
 
 # sidecar
 + [Debug Network Traffic in Kubernetes using a Sidecar](https://medium.com/@rakhitharr/debug-network-traffic-in-kubernetes-using-a-sidecar-fd1671d8a35b)
+
+# dev 
++ [Navigating ML Deployment](https://towardsdatascience.com/navigating-ml-deployment-34e35a18d514)
