@@ -65,7 +65,7 @@
 
 ## ETL
 + [ETL Testing in a nutshell](https://medium.com/engineered-publicis-sapient/etl-testing-in-a-nutshell-4c9d4ca35ccb)
-
++ [14 Principles To Secure Your Data Pipelines](https://denyslinkov.medium.com/14-principles-to-secure-your-data-pipelines-2198a21e9bc0)
 
 # mesh
 + [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
