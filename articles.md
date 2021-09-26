@@ -10,6 +10,7 @@
 + [MLOps: A Complete Guide to Machine Learning Operations | MLOps vs DevOps](https://ashutoshtr.medium.com/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops-70c3626ce7ed)
 ## workflow
 
++ [Kubeflow: An MLOps Perspective](https://towardsdatascience.com/kubeflow-an-mlops-perspective-17d33ac57c08)
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 + [Open-source Workflow Management Tools: A Survey](https://ploomber.io/posts/survey/)
 + [What We Love About Prefect](https://datarevenue.com/en-blog/what-we-are-loving-about-prefect)
