@@ -21,6 +21,7 @@
 + [A New Way of Building Machine Learning Pipelines](https://pub.towardsai.net/a-new-way-of-building-machine-learning-pipelines-54700ed1aded)
 [Airflow Summit 2021 takeaways](https://medium.com/apache-airflow/airflow-summit-takeaways-c3e703a104c1)
 ## feature store
++ [MLOps: Building a Feature Store? Here are the top things to keep in mind](https://towardsdatascience.com/mlops-building-a-feature-store-here-are-the-top-things-to-keep-in-mind-d0f68d9794c6)
 + [Feature Store Milestones](https://medium.com/data-for-ai/feature-store-milestones-cca2bafe6e9c)
 + [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
 + [What are Feature Stores and Why Are They Critical for Scaling Data Science?](https://towardsdatascience.com/what-are-feature-stores-and-why-are-they-critical-for-scaling-data-science-3f9156f7ab4)
