@@ -8,6 +8,7 @@
 + [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 + [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
 + [MLOps: A Complete Guide to Machine Learning Operations | MLOps vs DevOps](https://ashutoshtr.medium.com/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops-70c3626ce7ed)
++ [A MLOps Tale about operationalising MLFlow and PyTorch](https://medium.com/mlops-community/engineering-lab-1-team-1-a-mlops-tale-about-operationalising-mlflow-and-pytorch-62193b55dc19)
 ## workflow
 
 + [Kubeflow: An MLOps Perspective](https://towardsdatascience.com/kubeflow-an-mlops-perspective-17d33ac57c08)
