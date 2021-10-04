@@ -32,6 +32,7 @@
 + [Feast: Setup your own ML Feature store on Kubernetes](https://paravatha.medium.com/feast-setup-your-own-ml-feature-store-on-kubernetes-5b3193c2b62c)
 + [Top MLOps Feature Stores — 2021](https://techninjahere.medium.com/top-mlops-feature-store-2021-c71d3a9f820c)
 ## model debug
++ [MLflow For Machine Learning Pipelines [Ultimate Guide]](https://medium.com/@theclickreader/mlflow-for-machine-learning-pipelines-ultimate-guide-821e55370034)
 + [Debug Models And Explain Predictions Using Eli5](https://towardsdatascience.com/debug-models-and-explain-predictions-using-eli5-9f856ae74d16)
 + [Top ten ways to tackle overfitting models](https://shivanishimpi9.medium.com/top-ten-ways-to-tackle-overfitting-models-in-machine-learning-a5f109c3976b)
 + [Machine Learning Model Dashboard](https://towardsdatascience.com/machine-learning-model-dashboard-4544daa50848)
