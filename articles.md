@@ -5,6 +5,8 @@
 + [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0)
 + [10 ML Project and AI Project Ideas for 2021](https://jelvix.medium.com/10-ml-project-and-ai-project-ideas-for-2021-133bc59ae545)
 ## overview
+
++ [A Complete MLOps Toolbox](https://medium.com/rappibank/a-complete-mlops-toolbox-9c37f8ef5500)
 + [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 + [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
 + [MLOps: A Complete Guide to Machine Learning Operations | MLOps vs DevOps](https://ashutoshtr.medium.com/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops-70c3626ce7ed)
