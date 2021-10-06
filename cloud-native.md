@@ -2,3 +2,9 @@
 
 # log
 + [Top Kubernetes log monitoring tools](https://medium.com/codex/5-top-kubernetes-log-monitoring-tools-d8c0494deb30)
+## fluent-bit
++ [11 Fluent Bit Tips & Tricks for Log Forwarding with Couchbase](https://blog.couchbase.com/fluent-bit-tips-tricks-log-forwarding-couchbase/)
+
+# Service Mesh
+
++ [Why Linkerd doesn't use Envoy](https://linkerd.io/2020/12/03/why-linkerd-doesnt-use-envoy/)
