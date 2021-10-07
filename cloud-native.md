@@ -2,6 +2,7 @@
 
 # log
 + [Top Kubernetes log monitoring tools](https://medium.com/codex/5-top-kubernetes-log-monitoring-tools-d8c0494deb30)
++ [Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance](https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea)
 ## fluent-bit
 + [11 Fluent Bit Tips & Tricks for Log Forwarding with Couchbase](https://blog.couchbase.com/fluent-bit-tips-tricks-log-forwarding-couchbase/)
 
