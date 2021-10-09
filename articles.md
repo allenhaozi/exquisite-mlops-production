@@ -79,7 +79,7 @@
 # compute
 + [How to guide: Set up, Manage & Monitor Spark on Kubernetes](https://towardsdatascience.com/how-to-guide-set-up-manage-monitor-spark-on-kubernetes-with-code-examples-c5364ad3aba2)
 + [Apache Spark on Kubernetes — On-Premise (Ceph) and AWS (S3)](https://medium.com/@prateek.dubey/apache-spark-on-kubernetes-on-premise-ceph-and-aws-s3-d02b79760cc4)
-
++ [Stop using Spark for ML!](https://towardsdatascience.com/stop-using-spark-for-ml-59496927ef93)
 # sidecar
 + [Debug Network Traffic in Kubernetes using a Sidecar](https://medium.com/@rakhitharr/debug-network-traffic-in-kubernetes-using-a-sidecar-fd1671d8a35b)
 
