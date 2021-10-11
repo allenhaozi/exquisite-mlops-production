@@ -13,6 +13,7 @@
 + [A MLOps Tale about operationalising MLFlow and PyTorch](https://medium.com/mlops-community/engineering-lab-1-team-1-a-mlops-tale-about-operationalising-mlflow-and-pytorch-62193b55dc19)
 ## workflow
 
++ [Kubeflow and MLOps Workshop Recap — Sept 2021](https://journal.arrikto.com/kubeflow-and-mlops-workshop-recap-sept-2021-a5f014ddcb35)
 + [Kubeflow: An MLOps Perspective](https://towardsdatascience.com/kubeflow-an-mlops-perspective-17d33ac57c08)
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 + [Open-source Workflow Management Tools: A Survey](https://ploomber.io/posts/survey/)
@@ -60,6 +61,7 @@
 + [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
 + [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
 + [Data Governance Technologies](https://medium.com/technexthere/data-governance-technologies-internal-edb033641422)
++ [Creating a Metadata Architecture From the Ground Up](https://medium.com/quintoandar-tech-blog/creating-a-metadata-architecture-from-the-ground-up-ff05707ce630)
 + [Top Data Mesh (Fabric, Virtualization) Platforms — 2021](https://medium.com/technexthere/top-data-virtualization-mesh-fabric-platforms-2021-f1e1f6f5b479)
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
@@ -86,3 +88,4 @@
 
 # dev 
 + [Navigating ML Deployment](https://towardsdatascience.com/navigating-ml-deployment-34e35a18d514)
++ [A Brief Introduction to Azure Machine Learning Studio](https://towardsdatascience.com/a-brief-introduction-to-azure-machine-learning-studio-9bbf41800a60)
