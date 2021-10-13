@@ -54,6 +54,7 @@
 + [Choose the Best ML Model Based On Visualizations](https://towardsdatascience.com/choose-best-ml-model-based-on-visualization-ed6398ac3005)
 
 # data mesh
++ [Awesome Data Mesh](https://github.com/JacekMajchrzak/awesome-datamesh)
 + [DataOps Technologies — Why Meta-Orchestration?](https://medium.com/technexthere/dataops-technologies-part-1-2021-d6fd59a76896)
 + [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 + [Data Mesh Set](https://datameshlearning.substack.com/p/favorites)
