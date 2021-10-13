@@ -55,6 +55,7 @@
 
 # data mesh
 + [Awesome Data Mesh](https://github.com/JacekMajchrzak/awesome-datamesh)
++ [How to Build the Data Mesh Foundation: A Principled Approach](https://www.confluent.io/events/kafka-summit-europe-2021/how-to-build-the-data-mesh-foundation-a-principled-approach/)
 + [DataOps Technologies — Why Meta-Orchestration?](https://medium.com/technexthere/dataops-technologies-part-1-2021-d6fd59a76896)
 + [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 + [Data Mesh Set](https://datameshlearning.substack.com/p/favorites)
