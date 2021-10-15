@@ -12,6 +12,11 @@
 + [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
 + [MLOps: A Complete Guide to Machine Learning Operations | MLOps vs DevOps](https://ashutoshtr.medium.com/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops-70c3626ce7ed)
 + [A MLOps Tale about operationalising MLFlow and PyTorch](https://medium.com/mlops-community/engineering-lab-1-team-1-a-mlops-tale-about-operationalising-mlflow-and-pytorch-62193b55dc19)
+
+
+## SaaS
++ [Google Vertex AI: The Easiest Way to Run ML Pipelines](https://blog.doit-intl.com/google-vertex-ai-the-easiest-way-to-run-ml-pipelines-3a41c5ed153)
+
 ## workflow
 
 + [Kubeflow and MLOps Workshop Recap — Sept 2021](https://journal.arrikto.com/kubeflow-and-mlops-workshop-recap-sept-2021-a5f014ddcb35)
@@ -25,6 +30,8 @@
 + [We’re All Using Airflow Wrong and How to Fix It](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 + [A New Way of Building Machine Learning Pipelines](https://pub.towardsai.net/a-new-way-of-building-machine-learning-pipelines-54700ed1aded)
 [Airflow Summit 2021 takeaways](https://medium.com/apache-airflow/airflow-summit-takeaways-c3e703a104c1)
++ [Training and AutoML Summit Recap — Part 1](https://journal.arrikto.com/training-and-automl-summit-recap-part-1-arrikto-4cc560543bc7)
++ [Training and AutoML Summit Recap — Part 2](https://journal.arrikto.com/training-and-automl-summit-recap-part-2-871f59a81704)
 ## feature store
 + [MLOps: Building a Feature Store? Here are the top things to keep in mind](https://towardsdatascience.com/mlops-building-a-feature-store-here-are-the-top-things-to-keep-in-mind-d0f68d9794c6)
 + [Feature Store Milestones](https://medium.com/data-for-ai/feature-store-milestones-cca2bafe6e9c)
