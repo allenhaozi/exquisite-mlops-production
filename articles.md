@@ -2,6 +2,7 @@
 
 ## principle
 + [mlops](https://ml-ops.org/)
++ [The State of MLOps 2021](https://medium.com/mlearning-ai/mlops-state-2021-bd69165e2e71)
 + [AI Infrastructure Alliance Mission Statement](https://ai-infrastructure.org/mission-statement/)
 + [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0)
 + [10 ML Project and AI Project Ideas for 2021](https://jelvix.medium.com/10-ml-project-and-ai-project-ideas-for-2021-133bc59ae545)
