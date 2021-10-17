@@ -34,6 +34,7 @@
 + [Training and AutoML Summit Recap — Part 1](https://journal.arrikto.com/training-and-automl-summit-recap-part-1-arrikto-4cc560543bc7)
 + [Training and AutoML Summit Recap — Part 2](https://journal.arrikto.com/training-and-automl-summit-recap-part-2-871f59a81704)
 ## feature store
++ [Feature Store vs Data Warehouse](https://www.kdnuggets.com/2020/12/feature-store-vs-data-warehouse.html)
 + [MLOps: Building a Feature Store? Here are the top things to keep in mind](https://towardsdatascience.com/mlops-building-a-feature-store-here-are-the-top-things-to-keep-in-mind-d0f68d9794c6)
 + [Feature Store Milestones](https://medium.com/data-for-ai/feature-store-milestones-cca2bafe6e9c)
 + [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
