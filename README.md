@@ -67,6 +67,13 @@ Dagster lets you define pipelines in terms of the data flow between reusable, lo
 Dagster is designed for data platform engineers, data engineers, and full-stack data scientists. Building a data platform with Dagster makes your stakeholders more independent and your systems more robust. Developing data pipelines with Dagster makes testing easier and deploying faster.
 ```
 
+* [great_expectations](https://github.com/great-expectations/great_expectations) ![](https://img.shields.io/github/stars/great-expectations/great_expectations.svg?style=social)
+```
+Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
+
+Software developers have long known that testing and documentation are essential for managing complex codebases. Great Expectations brings the same confidence, integrity, and acceleration to data science and data engineering teams.
+```
+
 ## Training
 ```
 No amount of experimentation can ever prove me right; a single experiment can prove me wrong. --Albert Einstein

@@ -2,6 +2,7 @@
 
 ## principle
 + [mlops](https://ml-ops.org/)
++ [Machine Learning Toolkit](https://datarevenue.com/machine-learning-software-tools)
 + [The State of MLOps 2021](https://medium.com/mlearning-ai/mlops-state-2021-bd69165e2e71)
 + [AI Infrastructure Alliance Mission Statement](https://ai-infrastructure.org/mission-statement/)
 + [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0)
@@ -11,7 +12,6 @@
 + [A Complete MLOps Toolbox](https://medium.com/rappibank/a-complete-mlops-toolbox-9c37f8ef5500)
 + [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 + [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
-+ [MLOps: A Complete Guide to Machine Learning Operations | MLOps vs DevOps](https://ashutoshtr.medium.com/mlops-a-complete-guide-to-machine-learning-operations-mlops-vs-devops-70c3626ce7ed)
 + [A MLOps Tale about operationalising MLFlow and PyTorch](https://medium.com/mlops-community/engineering-lab-1-team-1-a-mlops-tale-about-operationalising-mlflow-and-pytorch-62193b55dc19)
 
 
