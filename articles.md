@@ -52,6 +52,7 @@
 + [Top MLOps Explainability frameworks — 2021](https://medium.com/technexthere/top-mlops-explainability-frameworks-2021-8a3d8f1d1d0e)
 + [ML Experiments beyond MLFlow](https://medium.com/mlearning-ai/extending-machine-learning-experimentation-platform-beyond-mlflow-eea5584e5ff8)
 ## model monitor
++ [How to Detect Model Drift in MLOps Monitoring](https://towardsdatascience.com/how-to-detect-model-drift-in-mlops-monitoring-7a039c22eaf9)
 + [Top MLOps Model Monitoring Tools — 2021](https://techninjahere.medium.com/top-mlops-model-monitoring-tools-2021-e9f616310ffd)
 + [Monitor Your Model Performance with Python Streamlit](https://medium.com/dataman-in-ai/monitor-your-model-performance-with-python-streamlit-e0db20f09023)
 + [Monitor! Stop Being A Blind Data-Scientist.](https://towardsdatascience.com/monitor-stop-being-a-blind-data-scientist-ac915286075f)
@@ -62,7 +63,9 @@
 ## model validation
 + [Choose the Best ML Model Based On Visualizations](https://towardsdatascience.com/choose-best-ml-model-based-on-visualization-ed6398ac3005)
 
-# data mesh
+# data
++ [MLOps-How to do EDA without writing a single line of python code.](https://medium.com/analytics-vidhya/mlops-how-to-do-eda-without-writing-a-single-line-of-python-code-634d95a02367)
+## data mesh
 + [Awesome Data Mesh](https://github.com/JacekMajchrzak/awesome-datamesh)
 + [How to Build the Data Mesh Foundation: A Principled Approach](https://www.confluent.io/events/kafka-summit-europe-2021/how-to-build-the-data-mesh-foundation-a-principled-approach/)
 + [DataOps Technologies — Why Meta-Orchestration?](https://medium.com/technexthere/dataops-technologies-part-1-2021-d6fd59a76896)
