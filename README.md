@@ -172,5 +172,21 @@ This project is about explaining what machine learning classifiers (or models) a
 ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions.
 
 ```
+
+## Data and Model Monitoring
++ [Fairlearn](https://github.com/fairlearn/fairlearn) ![](https://img.shields.io/github/stars/fairlearn/fairlearn.svg?style=social) 
+```
+Fairlearn is a Python package that empowers developers of artificial intelligence (AI) systems to assess their system's fairness and mitigate any observed unfairness issues.    
+Fairlearn contains mitigation algorithms as well as metrics for model assessment.     
+Besides the source code, this repository also contains Jupyter notebooks with examples of Fairlearn usage.   
+```
++ [Great Expectations](https://github.com/great-expectations/great_expectations) ![](https://img.shields.io/github/stars/great-expectations/great_expectations.svg?style=social)
+```
+Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.     
+Software developers have long known that testing and documentation are essential for managing complex codebases.    
+Great Expectations brings the same confidence, integrity, and acceleration to data science and data engineering teams.    
+```
++ []() ![]()
++ []() ![]()
 ### Articles
 + [MLOps Articles](articles.md)
