@@ -10,3 +10,6 @@
 
 + [Why Linkerd doesn't use Envoy](https://linkerd.io/2020/12/03/why-linkerd-doesnt-use-envoy/)
 + [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
+
+# Monitoring
++ [Federating Prometheus Effectively](https://levelup.gitconnected.com/federating-prometheus-effectively-4ccd51b2767b)
