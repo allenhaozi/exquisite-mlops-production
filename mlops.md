@@ -19,6 +19,7 @@
 
 ## SaaS
 + [Google Vertex AI: The Easiest Way to Run ML Pipelines](https://blog.doit-intl.com/google-vertex-ai-the-easiest-way-to-run-ml-pipelines-3a41c5ed153)
++ [What Uber Learned from Building Its Own Machine Learning Platform?](https://pub.towardsai.net/what-uber-learned-from-building-its-own-machine-learning-platform-e31bc27a592f) :earth_asia: `mention the pain points of machine learning`
 
 ## workflow
 
