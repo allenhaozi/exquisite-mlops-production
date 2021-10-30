@@ -14,9 +14,7 @@
 + [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
 + [A MLOps Tale about operationalising MLFlow and PyTorch](https://medium.com/mlops-community/engineering-lab-1-team-1-a-mlops-tale-about-operationalising-mlflow-and-pytorch-62193b55dc19)
 
-+ [The role of MLOps on effective AI](https://medium.com/rappibank/the-role-of-mlops-on-effective-ai-dda75d638805)  :technologist: `make sense of architecture histogram`
-
-+ [The role of MLOps on effective AI](https://medium.com/rappibank/the-role-of-mlops-on-effective-ai-dda75d638805) :trident: `mlops level describe`
++ [The role of MLOps on effective AI](https://medium.com/rappibank/the-role-of-mlops-on-effective-ai-dda75d638805)  :technologist: `make sense of architecture histogram and mlops level describe`
 
 ## SaaS
 + [Google Vertex AI: The Easiest Way to Run ML Pipelines](https://blog.doit-intl.com/google-vertex-ai-the-easiest-way-to-run-ml-pipelines-3a41c5ed153)
@@ -48,9 +46,6 @@
 + [Feast is a Simple, Open Source Feature Store that Every Data Scientist Should Know About](https://medium.com/dataseries/feast-is-a-simple-open-source-feature-store-that-every-data-scientist-should-know-about-c79a2fe97481)
 + [Feast: Setup your own ML Feature store on Kubernetes](https://paravatha.medium.com/feast-setup-your-own-ml-feature-store-on-kubernetes-5b3193c2b62c)
 + [Top MLOps Feature Stores — 2021](https://techninjahere.medium.com/top-mlops-feature-store-2021-c71d3a9f820c)
-
-# data
-
 
 # compute
 + [How to guide: Set up, Manage & Monitor Spark on Kubernetes](https://towardsdatascience.com/how-to-guide-set-up-manage-monitor-spark-on-kubernetes-with-code-examples-c5364ad3aba2)
