@@ -16,6 +16,7 @@
 
 + [The role of MLOps on effective AI](https://medium.com/rappibank/the-role-of-mlops-on-effective-ai-dda75d638805)  :technologist: `make sense of architecture histogram`
 
++ [The role of MLOps on effective AI](https://medium.com/rappibank/the-role-of-mlops-on-effective-ai-dda75d638805) :trident: `mlops level describe`
 
 ## SaaS
 + [Google Vertex AI: The Easiest Way to Run ML Pipelines](https://blog.doit-intl.com/google-vertex-ai-the-easiest-way-to-run-ml-pipelines-3a41c5ed153)
