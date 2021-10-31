@@ -1,8 +1,8 @@
 # Data
 
-## Data Visualization
+## Data Visualization && Data Observability
 - [The 10 Best Data Visualizations of 2021](https://towardsdatascience.com/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)
-
+- [Anomaly Detection Part 1: The Key to Effective Data Observability](https://medium.com/bigeye/anomaly-detection-part-1-the-key-to-effective-data-observability-227e987ea1ec) :hamburger: `observability why`
 + [MLOps-How to do EDA without writing a single line of python code.](https://medium.com/analytics-vidhya/mlops-how-to-do-eda-without-writing-a-single-line-of-python-code-634d95a02367)
 ## data mesh
 + [Awesome Data Mesh](https://github.com/JacekMajchrzak/awesome-datamesh)
