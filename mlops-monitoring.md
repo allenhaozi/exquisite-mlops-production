@@ -9,3 +9,12 @@
 + [MLOps Monitoring Market Review](https://towardsdatascience.com/mlops-monitoring-market-review-66904f0863bb)
 + [Top Challenges in MLOps Monitoring](https://techninjahere.medium.com/top-challenges-in-mlops-monitoring-573c0dd2a411)
 + [5 open source APM tools compared](https://himaniraghav0311.medium.com/5-open-source-apm-tools-compared-1dd2a81eb09e)
+
+
+
+## Model Monitoring
++ [How To Foil the Fraudsters Messing With Your Fraud Models](https://towardsdatascience.com/how-to-foil-the-fraudsters-messing-with-your-fraud-models-ac426481fd8b) :wine_glass: `monitor fraud from financial services to healthcare, insurance, technology, and travel`
+
+### Data Drift
+
++ [Automating Data Drift Thresholding in Machine Learning Systems](https://towardsdatascience.com/automating-data-drift-thresholding-in-machine-learning-systems-524e6259f59f) :beer: `data drift how`

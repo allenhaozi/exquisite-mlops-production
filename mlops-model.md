@@ -8,8 +8,6 @@
 + [How to Build an ML Model Registry: A Step-by-step Guide from Opendoor Engineering](https://medium.com/opendoor-labs/how-to-build-an-ml-model-registry-a-step-by-step-guide-from-opendoor-engineering-cee36d965937)
 + [Benefits of the MLflow Model Registry](https://medium.com/infinstor/benefits-of-the-mlflow-model-registry-37e534de599) :palm_tree: `mlflow model registry tutorial`
 
-## Model Monitoring
-+ [How To Foil the Fraudsters Messing With Your Fraud Models](https://towardsdatascience.com/how-to-foil-the-fraudsters-messing-with-your-fraud-models-ac426481fd8b) :wine_glass: `monitor fraud from financial services to healthcare, insurance, technology, and travel`
 
 ## model debug
 + [Aim 3.0.0 — The foundations for open-source & open-metadata ML platform](https://medium.com/aimstack/aim-3-0-0-the-foundations-for-open-source-open-metadata-ml-platform-f3969755d55)

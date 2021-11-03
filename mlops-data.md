@@ -14,9 +14,7 @@
 ## metadata
 + [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
 + [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
-+ [Data Governance Technologies](https://medium.com/technexthere/data-governance-technologies-internal-edb033641422)
 + [Creating a Metadata Architecture From the Ground Up](https://medium.com/quintoandar-tech-blog/creating-a-metadata-architecture-from-the-ground-up-ff05707ce630)
-+ [Top Data Mesh (Fabric, Virtualization) Platforms — 2021](https://medium.com/technexthere/top-data-virtualization-mesh-fabric-platforms-2021-f1e1f6f5b479)
 + [Data Discovery in 2020](https://medium.com/bigeye/data-discovery-in-2020-8c85eed328bb)
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
