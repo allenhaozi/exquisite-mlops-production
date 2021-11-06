@@ -9,6 +9,7 @@
 + [MLOps Monitoring Market Review](https://towardsdatascience.com/mlops-monitoring-market-review-66904f0863bb)
 + [Top Challenges in MLOps Monitoring](https://techninjahere.medium.com/top-challenges-in-mlops-monitoring-573c0dd2a411)
 + [5 open source APM tools compared](https://himaniraghav0311.medium.com/5-open-source-apm-tools-compared-1dd2a81eb09e)
++ [Deploy and Monitor your ML Application with Flask and WhyLabs](https://towardsdatascience.com/deploy-and-monitor-your-ml-application-with-flask-and-whylabs-4cd1e757c94b) :volcano: `Flask + whylogs`
 
 
 

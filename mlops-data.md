@@ -26,6 +26,7 @@
 
 ## data monitoring
 + [A Quick Start To Data Quality Monitoring For Machine Learning](https://towardsdatascience.com/a-quickstart-guideto-high-quality-data-4112ee8c498b)
++ [How to ensure data quality with Great Expectations](https://medium.com/snowflake/how-to-ensure-data-quality-with-great-expectations-271e3ca8b4b9) :pig: `Great Expectations tutorial`
 
 ## ETL
 + [ETL Testing in a nutshell](https://medium.com/engineered-publicis-sapient/etl-testing-in-a-nutshell-4c9d4ca35ccb)
