@@ -16,6 +16,7 @@
 + [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
 + [Creating a Metadata Architecture From the Ground Up](https://medium.com/quintoandar-tech-blog/creating-a-metadata-architecture-from-the-ground-up-ff05707ce630)
 + [Data Discovery in 2020](https://medium.com/bigeye/data-discovery-in-2020-8c85eed328bb)
++ [Rethink Metadata … It’s Facets](https://medium.com/@mcdeepak/rethink-metadata-its-facets-f02fffa7a7a1) :snowflake: `metadata thinking`
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
