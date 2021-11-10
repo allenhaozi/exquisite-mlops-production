@@ -22,6 +22,7 @@
 
 ## workflow
 
++ [Apache Airflow: KubernetesExecutor](https://brandenpleines.medium.com/apache-airflow-kubernetesexecutor-e16ae33868b1) :gem: `airflow kubernetes tutorial`
 + [Kubeflow and MLOps Workshop Recap — Sept 2021](https://journal.arrikto.com/kubeflow-and-mlops-workshop-recap-sept-2021-a5f014ddcb35)
 + [Kubeflow: An MLOps Perspective](https://towardsdatascience.com/kubeflow-an-mlops-perspective-17d33ac57c08)
 + [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
