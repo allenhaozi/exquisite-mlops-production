@@ -19,3 +19,4 @@
 ### Data Drift
 
 + [Automating Data Drift Thresholding in Machine Learning Systems](https://towardsdatascience.com/automating-data-drift-thresholding-in-machine-learning-systems-524e6259f59f) :beer: `data drift how`
++ [Why data drift detection is important and how do you automate it in 5 simple steps](https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93) :blush: `data drift tutorial`
