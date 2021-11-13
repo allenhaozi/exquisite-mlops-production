@@ -13,3 +13,7 @@
 
 # Monitoring
 + [Federating Prometheus Effectively](https://levelup.gitconnected.com/federating-prometheus-effectively-4ccd51b2767b)
+
+# Network
+## gateway
++ [Kubernetes NGINX Ingress: 10 Useful Configuration Options](https://loft-sh.medium.com/kubernetes-nginx-ingress-10-useful-configuration-options-919c6086d04c) :baby_chick: `nginx ingress tutorial`
