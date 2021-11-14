@@ -20,3 +20,6 @@
 
 ## model validation
 + [Choose the Best ML Model Based On Visualizations](https://towardsdatascience.com/choose-best-ml-model-based-on-visualization-ed6398ac3005)
+
+## notebook
++ [From notebook hell to container heaven](https://medium.com/datamindedbe/from-notebook-hell-to-container-heaven-20cbe05100a1) :notes: `notebook tutorial`
