@@ -60,6 +60,3 @@
 + [Navigating ML Deployment](https://towardsdatascience.com/navigating-ml-deployment-34e35a18d514)
 + [A Brief Introduction to Azure Machine Learning Studio](https://towardsdatascience.com/a-brief-introduction-to-azure-machine-learning-studio-9bbf41800a60)
 
-# Operator
-
-+ [Announcing PyCaret’s New Time Series Module](https://towardsdatascience.com/announcing-pycarets-new-time-series-module-b6e724d4636c) :cow: `python ml library integration`
