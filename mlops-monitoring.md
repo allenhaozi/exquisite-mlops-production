@@ -16,6 +16,9 @@
 ## Model Monitoring
 + [How To Foil the Fraudsters Messing With Your Fraud Models](https://towardsdatascience.com/how-to-foil-the-fraudsters-messing-with-your-fraud-models-ac426481fd8b) :wine_glass: `monitor fraud from financial services to healthcare, insurance, technology, and travel`
 
+## Model Debugging
++ [Inside Manifold: Uber’s Stack for Debugging Machine Learning Models](https://pub.towardsai.net/inside-manifold-ubers-stack-for-debugging-machine-learning-models-e4daf6830665) :computer: `model debugging`
+
 ### Data Drift
 
 + [Automating Data Drift Thresholding in Machine Learning Systems](https://towardsdatascience.com/automating-data-drift-thresholding-in-machine-learning-systems-524e6259f59f) :beer: `data drift how`
