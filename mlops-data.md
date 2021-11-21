@@ -6,6 +6,7 @@
 
 + [Building a Data Lake with Apache Airflow](https://garystafford.medium.com/building-a-data-lake-with-apache-airflow-b48bd953c2b) :speedboat: `datalake airflow`
 + [How to build a Data Lake in your early-stage startup](https://medium.com/pier-stories/how-to-build-a-data-lake-in-your-early-stage-startup-f9a72136591c) :ocean: `data lake tutorial`
++ [Anatomy of Modern Data Platform](https://hnandrey.medium.com/anatomy-of-modern-data-platform-ce1a06f1eadd) :hamburger: `data infrastructure overview`
 
 ## Data Visualization && Data Observability
 - [The 10 Best Data Visualizations of 2021](https://towardsdatascience.com/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)
