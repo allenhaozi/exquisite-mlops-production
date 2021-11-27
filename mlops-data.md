@@ -6,6 +6,14 @@
 
 + [How we’re building our data platform as a product](https://medium.com/stuart-engineering/how-were-building-our-data-platform-as-a-product-f89142b6547f) :cherries: `data as product`
 
+## Metadata
++ [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
++ [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
++ [Creating a Metadata Architecture From the Ground Up](https://medium.com/quintoandar-tech-blog/creating-a-metadata-architecture-from-the-ground-up-ff05707ce630)
++ [Data Discovery in 2020](https://medium.com/bigeye/data-discovery-in-2020-8c85eed328bb)
++ [Rethink Metadata … It’s Facets](https://medium.com/@mcdeepak/rethink-metadata-its-facets-f02fffa7a7a1) :snowflake: `metadata thinking`
++ [The Missing Piece of Data Discovery and Observability Platforms: Open Standard for Metadata](https://towardsdatascience.com/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503) :tangerine: `For the first time, I met a structure that was consistent with my ideas`
+
 ## Data Lake
 
 + [Building a Data Lake with Apache Airflow](https://garystafford.medium.com/building-a-data-lake-with-apache-airflow-b48bd953c2b) :speedboat: `datalake airflow`
@@ -23,12 +31,7 @@
 + [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 + [Data Mesh Set](https://datameshlearning.substack.com/p/favorites)
 + [Data Mesh: The Four Principles of a Distributed Architecture](https://medium.datadriveninvestor.com/data-mesh-the-four-principles-of-a-distributed-architecture-59514eba1e52)
-## Metadata
-+ [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
-+ [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
-+ [Creating a Metadata Architecture From the Ground Up](https://medium.com/quintoandar-tech-blog/creating-a-metadata-architecture-from-the-ground-up-ff05707ce630)
-+ [Data Discovery in 2020](https://medium.com/bigeye/data-discovery-in-2020-8c85eed328bb)
-+ [Rethink Metadata … It’s Facets](https://medium.com/@mcdeepak/rethink-metadata-its-facets-f02fffa7a7a1) :snowflake: `metadata thinking`
+
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
