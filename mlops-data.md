@@ -2,6 +2,8 @@
 
 + [Data Engineering Technologies in 2021](https://techninjahere.medium.com/data-engineering-technologies-fa886398d24e) :smile: `data eco overview`
 
++ [Open Source Analytics Stack: Bringing Control, Flexibility, and Data-Privacy to Your Analytics](https://rudderstack.medium.com/open-source-analytics-stack-bringing-control-flexibility-and-data-privacy-to-your-analytics-d90d4f22c08c) :grapes: `open source data platform solutions`
+
 ## Data Lake
 
 + [Building a Data Lake with Apache Airflow](https://garystafford.medium.com/building-a-data-lake-with-apache-airflow-b48bd953c2b) :speedboat: `datalake airflow`
