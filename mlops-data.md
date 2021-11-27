@@ -4,6 +4,8 @@
 
 + [Open Source Analytics Stack: Bringing Control, Flexibility, and Data-Privacy to Your Analytics](https://rudderstack.medium.com/open-source-analytics-stack-bringing-control-flexibility-and-data-privacy-to-your-analytics-d90d4f22c08c) :grapes: `open source data platform solutions`
 
++ [How we’re building our data platform as a product](https://medium.com/stuart-engineering/how-were-building-our-data-platform-as-a-product-f89142b6547f) :cherries: `data as product`
+
 ## Data Lake
 
 + [Building a Data Lake with Apache Airflow](https://garystafford.medium.com/building-a-data-lake-with-apache-airflow-b48bd953c2b) :speedboat: `datalake airflow`
