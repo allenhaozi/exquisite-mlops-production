@@ -48,3 +48,7 @@
 + [ETL Testing in a nutshell](https://medium.com/engineered-publicis-sapient/etl-testing-in-a-nutshell-4c9d4ca35ccb)
 + [14 Principles To Secure Your Data Pipelines](https://denyslinkov.medium.com/14-principles-to-secure-your-data-pipelines-2198a21e9bc0)
 + [Setting up Airbyte ETL: Minimum Viable Data Stack Part II](https://medium.com/codex/setting-up-airbyte-etl-minimum-viable-data-stack-part-ii-c5f8bbfb406d) :art: `airbyte tutorial`
+
+
+## Data Quality 
++ [Data SLAs & data products: how they’re related & why it matters](https://medium.com/databand-ai/data-slas-data-products-how-theyre-related-why-it-matters-5a79f8e9dba8) :dog: `data quality SLA`
