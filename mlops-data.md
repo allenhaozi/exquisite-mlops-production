@@ -20,6 +20,9 @@
 + [How to build a Data Lake in your early-stage startup](https://medium.com/pier-stories/how-to-build-a-data-lake-in-your-early-stage-startup-f9a72136591c) :ocean: `data lake tutorial`
 + [Anatomy of Modern Data Platform](https://hnandrey.medium.com/anatomy-of-modern-data-platform-ce1a06f1eadd) :hamburger: `data infrastructure overview`
 
+## Data Lakehouse
++ [What is a Data Lakehouse?](https://medium.com/geekculture/what-is-a-data-lakehouse-2f7407ea1039) :necktie: `Lakehouse tutorial`
+
 ## Data Visualization && Data Observability
 - [The 10 Best Data Visualizations of 2021](https://towardsdatascience.com/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)
 - [Anomaly Detection Part 1: The Key to Effective Data Observability](https://medium.com/bigeye/anomaly-detection-part-1-the-key-to-effective-data-observability-227e987ea1ec) :hamburger: `observability why`
