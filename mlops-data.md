@@ -7,6 +7,7 @@
 + [How we’re building our data platform as a product](https://medium.com/stuart-engineering/how-were-building-our-data-platform-as-a-product-f89142b6547f) :cherries: `data as product`
 
 ## Metadata
++ [What is metadata?](https://towardsdatascience.com/what-is-metadata-800403c0767b) :crown: `metadata tutorial`
 + [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
 + [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
 + [Creating a Metadata Architecture From the Ground Up](https://medium.com/quintoandar-tech-blog/creating-a-metadata-architecture-from-the-ground-up-ff05707ce630)
