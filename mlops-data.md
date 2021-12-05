@@ -1,5 +1,5 @@
 # Data
-
++ [What’s in Store for the Future of the Modern Data Stack?](https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809) :neutral_face: `2022 predictions`
 + [Data Engineering Technologies in 2021](https://techninjahere.medium.com/data-engineering-technologies-fa886398d24e) :smile: `data eco overview`
 
 + [Open Source Analytics Stack: Bringing Control, Flexibility, and Data-Privacy to Your Analytics](https://rudderstack.medium.com/open-source-analytics-stack-bringing-control-flexibility-and-data-privacy-to-your-analytics-d90d4f22c08c) :grapes: `open source data platform solutions`
@@ -29,6 +29,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 ## Data Lakehouse
 + [What is a Data Lakehouse?](https://medium.com/geekculture/what-is-a-data-lakehouse-2f7407ea1039) :necktie: `Lakehouse tutorial`
 
++ [The Modern Cloud Data Platform war — DataBricks (Part 2)](https://medium.com/data-arena/the-modern-cloud-data-platform-war-databricks-part-2-36adcd3f3aaf) :santa: `data warehouse, data lake, data lakehouse`
 ## Data Visualization && Data Observability
 - [The 10 Best Data Visualizations of 2021](https://towardsdatascience.com/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)
 - [Anomaly Detection Part 1: The Key to Effective Data Observability](https://medium.com/bigeye/anomaly-detection-part-1-the-key-to-effective-data-observability-227e987ea1ec) :hamburger: `observability why`
@@ -62,5 +63,5 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 
 ## Data Quality 
 + [Data SLAs & data products: how they’re related & why it matters](https://medium.com/databand-ai/data-slas-data-products-how-theyre-related-why-it-matters-5a79f8e9dba8) :dog: `data quality SLA`
-
++ [5 Data Quality Tools You Should Know About](https://betterprogramming.pub/5-data-quality-tools-you-should-know-about-dacc38aa6ba8) :congratulations: `data quality tool set`
 + [DEEQU, I mean Data Quality](https://ajithshetty28.medium.com/deequ-i-mean-data-quality-a0e6c048469d) :train2: `data quality tutorial`
