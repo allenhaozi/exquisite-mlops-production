@@ -44,3 +44,6 @@
 + [Navigating ML Deployment](https://towardsdatascience.com/navigating-ml-deployment-34e35a18d514)
 + [A Brief Introduction to Azure Machine Learning Studio](https://towardsdatascience.com/a-brief-introduction-to-azure-machine-learning-studio-9bbf41800a60)
 
+
+# AutoML
++[Best OpenSource AutoML frameworks in 2021](https://techninjahere.medium.com/best-opensource-automl-frameworks-4e40820e2d79) :pager: `automl open source`
