@@ -16,6 +16,7 @@
 
 # Monitoring
 + [Federating Prometheus Effectively](https://levelup.gitconnected.com/federating-prometheus-effectively-4ccd51b2767b)
++ [Popeye — A Kubernetes Cluster Sanitizer](https://ajeetraina.medium.com/popeye-a-kubernetes-cluster-sanitizer-1914723eb21d) :poodle: `scans live Kubernetes cluster and reports potential issues with deployed resources and configurations`
 
 # Network
 ## gateway
