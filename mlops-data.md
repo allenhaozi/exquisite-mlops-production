@@ -26,6 +26,8 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [How to build a Data Lake in your early-stage startup](https://medium.com/pier-stories/how-to-build-a-data-lake-in-your-early-stage-startup-f9a72136591c) :ocean: `data lake tutorial`
 + [Anatomy of Modern Data Platform](https://hnandrey.medium.com/anatomy-of-modern-data-platform-ce1a06f1eadd) :hamburger: `data infrastructure overview`
 
++ [Universal Data Lake: The Future of Data](https://medium.com/code-contour-by-bfa/universal-data-lake-the-future-of-data-6e058b066730) :minibus: `I couldn't agree more`
+
 ## Data Lakehouse
 + [What is a Data Lakehouse?](https://medium.com/geekculture/what-is-a-data-lakehouse-2f7407ea1039) :necktie: `Lakehouse tutorial`
 
