@@ -6,6 +6,8 @@
 
 + [How we’re building our data platform as a product](https://medium.com/stuart-engineering/how-were-building-our-data-platform-as-a-product-f89142b6547f) :cherries: `data as product`
 
++ [Eight Top DataOps Trends for 2022](https://medium.com/data-ops/eight-top-dataops-trends-for-2022-727817fe08bc) :waxing_gibbous_moon: `dataops`
+
 ## Metadata
 ```
 Metadata is Data about other Data. Metadata describes the data and provides information about it. 
