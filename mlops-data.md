@@ -64,6 +64,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [Setting up Airbyte ETL: Minimum Viable Data Stack Part II](https://medium.com/codex/setting-up-airbyte-etl-minimum-viable-data-stack-part-ii-c5f8bbfb406d) :art: `airbyte tutorial`
 + [Airbyte: Data Integration / CDC Solution for Modern Data Teams!](https://jlgjosue.medium.com/airbyte-the-data-integration-cdc-solution-for-modern-data-teams-2fb0557ebeab) :guitar: `airbyte tutorial`
 
++ [(P)TL, a new data engineering architecture](https://medium.com/@dragos.c/p-tl-a-new-data-engineering-arhitecture-1dee8b7a84c0) :sparkler: `new data integration view`
 
 ## Data Quality 
 + [Data SLAs & data products: how they’re related & why it matters](https://medium.com/databand-ai/data-slas-data-products-how-theyre-related-why-it-matters-5a79f8e9dba8) :dog: `data quality SLA`
