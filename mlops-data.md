@@ -51,7 +51,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
 + [Five Predictions for the Future of the Modern Data Stack](https://medium.com/@jordan_88855/five-predictions-for-the-future-of-the-modern-data-stack-435b4e911413)
 + [A Primer on Data Drift](https://medium.com/data-from-the-trenches/a-primer-on-data-drift-18789ef252a6)
-
++ [Optimization of the life cycle of an ML project using MLflow and DVC](https://medium.com/@haythemtellili/optimization-of-the-life-cycle-of-an-ml-project-using-mlflow-and-dvc-646553985ca0) :blue_book: `DVC + mlflow`
 
 
 ## data monitoring
