@@ -45,6 +45,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 + [Data Mesh Set](https://datameshlearning.substack.com/p/favorites)
 + [Data Mesh: The Four Principles of a Distributed Architecture](https://medium.datadriveninvestor.com/data-mesh-the-four-principles-of-a-distributed-architecture-59514eba1e52)
++ [Data Movement in Netflix Studio via Data Mesh](https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059) `data mesh studio`
 
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)

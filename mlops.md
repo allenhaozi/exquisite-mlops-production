@@ -32,6 +32,7 @@
 + [Feast is a Simple, Open Source Feature Store that Every Data Scientist Should Know About](https://medium.com/dataseries/feast-is-a-simple-open-source-feature-store-that-every-data-scientist-should-know-about-c79a2fe97481)
 + [Feast: Setup your own ML Feature store on Kubernetes](https://paravatha.medium.com/feast-setup-your-own-ml-feature-store-on-kubernetes-5b3193c2b62c)
 + [Top MLOps Feature Stores — 2021](https://techninjahere.medium.com/top-mlops-feature-store-2021-c71d3a9f820c)
++ [Introduction to Feature Store for Machine Learning](https://trojrobert.medium.com/introduction-to-feature-store-for-machine-learning-a787739d358a) `feature pipeline`
 
 # compute
 + [How to guide: Set up, Manage & Monitor Spark on Kubernetes](https://towardsdatascience.com/how-to-guide-set-up-manage-monitor-spark-on-kubernetes-with-code-examples-c5364ad3aba2)
