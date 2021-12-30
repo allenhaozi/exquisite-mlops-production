@@ -1,12 +1,13 @@
 # Data
+
+## Overview
 + [What’s in Store for the Future of the Modern Data Stack?](https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809) :neutral_face: `2022 predictions`
 + [Data Engineering Technologies in 2021](https://techninjahere.medium.com/data-engineering-technologies-fa886398d24e) :smile: `data eco overview`
-
 + [Open Source Analytics Stack: Bringing Control, Flexibility, and Data-Privacy to Your Analytics](https://rudderstack.medium.com/open-source-analytics-stack-bringing-control-flexibility-and-data-privacy-to-your-analytics-d90d4f22c08c) :grapes: `open source data platform solutions`
-
 + [How we’re building our data platform as a product](https://medium.com/stuart-engineering/how-were-building-our-data-platform-as-a-product-f89142b6547f) :cherries: `data as product`
 
-+ [Eight Top DataOps Trends for 2022](https://medium.com/data-ops/eight-top-dataops-trends-for-2022-727817fe08bc) :waxing_gibbous_moon: `dataops`
++ [Eight Top DataOps Trends for 2022](https://medium.com/data-ops/eight-top-dataops-trends-for-2022-727817fe08bc) :waxing_gibbous_moon: `DataOPS`
++ [Building an End-to-End Open-Source Modern Data Platform](https://towardsdatascience.com/building-an-end-to-end-open-source-modern-data-platform-c906be2f31bd) `end to end data platform`
 
 ## Metadata
 ```
@@ -23,13 +24,11 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [The Missing Piece of Data Discovery and Observability Platforms: Open Standard for Metadata](https://towardsdatascience.com/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503) :tangerine: `For the first time, I met a structure that was consistent with my ideas`
 
 ## Data Lake
-
 + [Building a Data Lake with Apache Airflow](https://garystafford.medium.com/building-a-data-lake-with-apache-airflow-b48bd953c2b) :speedboat: `datalake airflow`
 + [How to build a Data Lake in your early-stage startup](https://medium.com/pier-stories/how-to-build-a-data-lake-in-your-early-stage-startup-f9a72136591c) :ocean: `data lake tutorial`
 + [Anatomy of Modern Data Platform](https://hnandrey.medium.com/anatomy-of-modern-data-platform-ce1a06f1eadd) :hamburger: `data infrastructure overview`
-
 + [Universal Data Lake: The Future of Data](https://medium.com/code-contour-by-bfa/universal-data-lake-the-future-of-data-6e058b066730) :minibus: `I couldn't agree more`
-
++ [Apache Hudi — The Streaming Data Lake Platform](https://medium.com/apache-hudi-blogs/apache-hudi-the-streaming-data-lake-platform-5964468678a4) ``
 ## Data Lakehouse
 + [What is a Data Lakehouse?](https://medium.com/geekculture/what-is-a-data-lakehouse-2f7407ea1039) :necktie: `Lakehouse tutorial`
 
@@ -64,8 +63,8 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [14 Principles To Secure Your Data Pipelines](https://denyslinkov.medium.com/14-principles-to-secure-your-data-pipelines-2198a21e9bc0)
 + [Setting up Airbyte ETL: Minimum Viable Data Stack Part II](https://medium.com/codex/setting-up-airbyte-etl-minimum-viable-data-stack-part-ii-c5f8bbfb406d) :art: `airbyte tutorial`
 + [Airbyte: Data Integration / CDC Solution for Modern Data Teams!](https://jlgjosue.medium.com/airbyte-the-data-integration-cdc-solution-for-modern-data-teams-2fb0557ebeab) :guitar: `airbyte tutorial`
-
 + [(P)TL, a new data engineering architecture](https://medium.com/@dragos.c/p-tl-a-new-data-engineering-arhitecture-1dee8b7a84c0) :sparkler: `new data integration view`
++ [How we build a Cloud Data lake using ELT instead of ETL](https://jomach.medium.com/how-we-build-a-cloud-data-lake-using-elt-instead-of-etl-c05c076001e0) `data lake + etl`
 
 ## Data Quality 
 + [Data SLAs & data products: how they’re related & why it matters](https://medium.com/databand-ai/data-slas-data-products-how-theyre-related-why-it-matters-5a79f8e9dba8) :dog: `data quality SLA`

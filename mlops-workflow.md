@@ -12,9 +12,10 @@
 + [Top Open source MLOps Tools — 2021](https://techninjahere.medium.com/top-11-open-source-mlops-tools-2021-d1b6530e512e)
 + [We’re All Using Airflow Wrong and How to Fix It](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 + [A New Way of Building Machine Learning Pipelines](https://pub.towardsai.net/a-new-way-of-building-machine-learning-pipelines-54700ed1aded)
-[Airflow Summit 2021 takeaways](https://medium.com/apache-airflow/airflow-summit-takeaways-c3e703a104c1)
++ [Airflow Summit 2021 takeaways](https://medium.com/apache-airflow/airflow-summit-takeaways-c3e703a104c1)
 + [Training and AutoML Summit Recap — Part 1](https://journal.arrikto.com/training-and-automl-summit-recap-part-1-arrikto-4cc560543bc7)
 + [Training and AutoML Summit Recap — Part 2](https://journal.arrikto.com/training-and-automl-summit-recap-part-2-871f59a81704)
++ [Automated Data Engineering Pipeline for Batch Data in Machine Learning](https://medium.com/zenofai/automated-data-engineering-pipeline-for-batch-data-in-machine-learning-521bd956ee0a) `ariflow + mongoexport`
 
 ## Prefect
 + [You No Longer Need Two Separate Systems for Batch Processing and Streaming](https://medium.com/the-prefect-blog/you-no-longer-need-two-separate-systems-for-batch-processing-and-streaming-88b3b9c1a203)  `batch streaming together`
