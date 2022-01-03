@@ -16,6 +16,7 @@
 + [A MLOps Tale about operationalising MLFlow and PyTorch](https://medium.com/mlops-community/engineering-lab-1-team-1-a-mlops-tale-about-operationalising-mlflow-and-pytorch-62193b55dc19)
 + [The role of MLOps on effective AI](https://medium.com/rappibank/the-role-of-mlops-on-effective-ai-dda75d638805)  :technologist: `make sense of architecture histogram and mlops level describe`
 + [Introduction & Comparison of MLOps platforms: AWS Sagemaker, Azure Machine Learning, GCP Vertex AI](https://medium.com/@vineetjaiswal/introduction-comparison-of-mlops-platforms-aws-sagemaker-azure-machine-learning-gcp-vertex-ai-9c1153399c8e) :sunflower: `mlops on cloud`
++ [End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) `end to end ml`
 
 ## SaaS
 + [Google Vertex AI: The Easiest Way to Run ML Pipelines](https://blog.doit-intl.com/google-vertex-ai-the-easiest-way-to-run-ml-pipelines-3a41c5ed153)
