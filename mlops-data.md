@@ -8,7 +8,7 @@
 
 + [Eight Top DataOps Trends for 2022](https://medium.com/data-ops/eight-top-dataops-trends-for-2022-727817fe08bc) :waxing_gibbous_moon: `DataOPS`
 + [Building an End-to-End Open-Source Modern Data Platform](https://towardsdatascience.com/building-an-end-to-end-open-source-modern-data-platform-c906be2f31bd) `end to end data platform`
-
++ [The Best Way to Manage Unstructured Data Efficiently](https://towardsdatascience.com/the-best-way-to-manage-unstructured-data-efficiently-b54dda2c24) `unstructured data`
 ## Metadata
 ```
 Metadata is Data about other Data. Metadata describes the data and provides information about it. 
