@@ -9,6 +9,7 @@
 + [Eight Top DataOps Trends for 2022](https://medium.com/data-ops/eight-top-dataops-trends-for-2022-727817fe08bc) :waxing_gibbous_moon: `DataOPS`
 + [Building an End-to-End Open-Source Modern Data Platform](https://towardsdatascience.com/building-an-end-to-end-open-source-modern-data-platform-c906be2f31bd) `end to end data platform`
 + [The Best Way to Manage Unstructured Data Efficiently](https://towardsdatascience.com/the-best-way-to-manage-unstructured-data-efficiently-b54dda2c24) `unstructured data`
++ [SaaS Foundations: Building scale-up data infrastructure](https://medium.com/dawn-capital/saas-foundations-building-scale-up-data-infrastructure-25104954d32a) `saas data inf`
 ## Metadata
 ```
 Metadata is Data about other Data. Metadata describes the data and provides information about it. 
@@ -45,6 +46,8 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [Data Mesh Set](https://datameshlearning.substack.com/p/favorites)
 + [Data Mesh: The Four Principles of a Distributed Architecture](https://medium.datadriveninvestor.com/data-mesh-the-four-principles-of-a-distributed-architecture-59514eba1e52)
 + [Data Movement in Netflix Studio via Data Mesh](https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059) `data mesh studio`
++ [An Architecture for the Data Mesh](https://towardsdatascience.com/an-architecture-for-the-data-mesh-32ff4a15f16f) `data mesh architecture`
++ [A Meta-architecture for Data Mesh](https://qulia.medium.com/a-meta-architecture-for-data-mesh-b89866189c54)  `data mesh meta`
 
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
