@@ -57,6 +57,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 ## data monitoring
 + [A Quick Start To Data Quality Monitoring For Machine Learning](https://towardsdatascience.com/a-quickstart-guideto-high-quality-data-4112ee8c498b)
 + [How to ensure data quality with Great Expectations](https://medium.com/snowflake/how-to-ensure-data-quality-with-great-expectations-271e3ca8b4b9) :pig: `Great Expectations tutorial`
++ [A tale of data quality checks at the runtime](https://medium.com/@chaurasiavidit/a-tale-of-data-quality-checks-at-the-runtime-d5937e20057b) `kedro+great expectations`
 
 ## ETL
 + [ETL Testing in a nutshell](https://medium.com/engineered-publicis-sapient/etl-testing-in-a-nutshell-4c9d4ca35ccb)
