@@ -30,6 +30,8 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [Anatomy of Modern Data Platform](https://hnandrey.medium.com/anatomy-of-modern-data-platform-ce1a06f1eadd) :hamburger: `data infrastructure overview`
 + [Universal Data Lake: The Future of Data](https://medium.com/code-contour-by-bfa/universal-data-lake-the-future-of-data-6e058b066730) :minibus: `I couldn't agree more`
 + [Apache Hudi — The Streaming Data Lake Platform](https://medium.com/apache-hudi-blogs/apache-hudi-the-streaming-data-lake-platform-5964468678a4) ``
++ [DataLake - In-Depth Comparison of DeltaLake and Apache HUDI](https://www.linkedin.com/pulse/datalake-in-depth-comparison-deltalake-apache-hudi-tanu-dua/) `hudi vs deltalake`
++ [hudi-iceberg-and-delta-lake-data-lake-table-formats-compared](https://lakefs.io/hudi-iceberg-and-delta-lake-data-lake-table-formats-compared/) `hudi vs deltalake vs iceberg`
 ## Data Lakehouse
 + [What is a Data Lakehouse?](https://medium.com/geekculture/what-is-a-data-lakehouse-2f7407ea1039) :necktie: `Lakehouse tutorial`
 
