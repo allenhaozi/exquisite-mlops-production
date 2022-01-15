@@ -10,6 +10,8 @@
 + [Building an End-to-End Open-Source Modern Data Platform](https://towardsdatascience.com/building-an-end-to-end-open-source-modern-data-platform-c906be2f31bd) `end to end data platform`
 + [The Best Way to Manage Unstructured Data Efficiently](https://towardsdatascience.com/the-best-way-to-manage-unstructured-data-efficiently-b54dda2c24) `unstructured data`
 + [SaaS Foundations: Building scale-up data infrastructure](https://medium.com/dawn-capital/saas-foundations-building-scale-up-data-infrastructure-25104954d32a) `saas data inf`
++ [The State of Data Infrastructure Landscape in 2022 and Beyond](https://medium.com/event-driven-utopia/the-state-of-data-infrastructure-landscape-in-2022-and-beyond-c57b9f85505c) `MDS 2022`
+
 ## Metadata
 ```
 Metadata is Data about other Data. Metadata describes the data and provides information about it. 
@@ -25,6 +27,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [The Missing Piece of Data Discovery and Observability Platforms: Open Standard for Metadata](https://towardsdatascience.com/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503) :tangerine: `For the first time, I met a structure that was consistent with my ideas`
 
 ## Data Lake
++ [Apache HUDI vs Delta Lake](https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5) `HUDI DeltaLake`
 + [Building a Data Lake with Apache Airflow](https://garystafford.medium.com/building-a-data-lake-with-apache-airflow-b48bd953c2b) :speedboat: `datalake airflow`
 + [How to build a Data Lake in your early-stage startup](https://medium.com/pier-stories/how-to-build-a-data-lake-in-your-early-stage-startup-f9a72136591c) :ocean: `data lake tutorial`
 + [Anatomy of Modern Data Platform](https://hnandrey.medium.com/anatomy-of-modern-data-platform-ce1a06f1eadd) :hamburger: `data infrastructure overview`
@@ -50,7 +53,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [Data Movement in Netflix Studio via Data Mesh](https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059) `data mesh studio`
 + [An Architecture for the Data Mesh](https://towardsdatascience.com/an-architecture-for-the-data-mesh-32ff4a15f16f) `data mesh architecture`
 + [A Meta-architecture for Data Mesh](https://qulia.medium.com/a-meta-architecture-for-data-mesh-b89866189c54)  `data mesh meta`
-
++ [Data Mesh Architecture and the Role of APIs & JSON Schemas](https://towardsdatascience.com/data-mesh-architecture-and-the-role-of-apis-json-schemas-3dc616650960) `APIs & JSON Schemas`
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
