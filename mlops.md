@@ -7,6 +7,7 @@
 + [AI Infrastructure Alliance Mission Statement](https://ai-infrastructure.org/mission-statement/)
 + [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0)
 + [10 ML Project and AI Project Ideas for 2021](https://jelvix.medium.com/10-ml-project-and-ai-project-ideas-for-2021-133bc59ae545)
++ [ML Platform User Experience: Build for Data Scientists](https://medium.com/@arpeetkale/ml-platform-user-experience-research-to-production-4f68c7b97be4) `ML platform principle`
 ## overview
 
 + [What I Learned From Attending MLOps World 2021](https://data-notes.co/what-i-learned-from-attending-mlops-world-2021-e4cffb6cdd0b) :tada: `recommender mlops`
