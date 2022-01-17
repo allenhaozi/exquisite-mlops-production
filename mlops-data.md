@@ -5,12 +5,12 @@
 + [Data Engineering Technologies in 2021](https://techninjahere.medium.com/data-engineering-technologies-fa886398d24e) :smile: `data eco overview`
 + [Open Source Analytics Stack: Bringing Control, Flexibility, and Data-Privacy to Your Analytics](https://rudderstack.medium.com/open-source-analytics-stack-bringing-control-flexibility-and-data-privacy-to-your-analytics-d90d4f22c08c) :grapes: `open source data platform solutions`
 + [How we’re building our data platform as a product](https://medium.com/stuart-engineering/how-were-building-our-data-platform-as-a-product-f89142b6547f) :cherries: `data as product`
-
 + [Eight Top DataOps Trends for 2022](https://medium.com/data-ops/eight-top-dataops-trends-for-2022-727817fe08bc) :waxing_gibbous_moon: `DataOPS`
 + [Building an End-to-End Open-Source Modern Data Platform](https://towardsdatascience.com/building-an-end-to-end-open-source-modern-data-platform-c906be2f31bd) `end to end data platform`
 + [The Best Way to Manage Unstructured Data Efficiently](https://towardsdatascience.com/the-best-way-to-manage-unstructured-data-efficiently-b54dda2c24) `unstructured data`
 + [SaaS Foundations: Building scale-up data infrastructure](https://medium.com/dawn-capital/saas-foundations-building-scale-up-data-infrastructure-25104954d32a) `saas data inf`
 + [The State of Data Infrastructure Landscape in 2022 and Beyond](https://medium.com/event-driven-utopia/the-state-of-data-infrastructure-landscape-in-2022-and-beyond-c57b9f85505c) `MDS 2022`
++ [2022 Technology Landscape to Democratize Data](https://modern-cdo.medium.com/2022-technology-landscape-to-democratize-data-272b8228b6cb) `from raw data to insights, discover pre build operationalize`
 
 ## Metadata
 ```
