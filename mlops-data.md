@@ -1,6 +1,9 @@
 # Data
 
 ## Overview
++ [2022 Technology Landscape to Democratize Data](https://modern-cdo.medium.com/2022-technology-landscape-to-democratize-data-272b8228b6cb) `from raw data to insights, discover pre build operationalize`
++ [The Future of the Modern Data Stack in 2022](https://medium.com/towards-data-science/the-future-of-the-modern-data-stack-in-2022-4f4c91bb778f) ``
+
 + [What’s in Store for the Future of the Modern Data Stack?](https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809) :neutral_face: `2022 predictions`
 + [Data Engineering Technologies in 2021](https://techninjahere.medium.com/data-engineering-technologies-fa886398d24e) :smile: `data eco overview`
 + [Open Source Analytics Stack: Bringing Control, Flexibility, and Data-Privacy to Your Analytics](https://rudderstack.medium.com/open-source-analytics-stack-bringing-control-flexibility-and-data-privacy-to-your-analytics-d90d4f22c08c) :grapes: `open source data platform solutions`
@@ -10,7 +13,6 @@
 + [The Best Way to Manage Unstructured Data Efficiently](https://towardsdatascience.com/the-best-way-to-manage-unstructured-data-efficiently-b54dda2c24) `unstructured data`
 + [SaaS Foundations: Building scale-up data infrastructure](https://medium.com/dawn-capital/saas-foundations-building-scale-up-data-infrastructure-25104954d32a) `saas data inf`
 + [The State of Data Infrastructure Landscape in 2022 and Beyond](https://medium.com/event-driven-utopia/the-state-of-data-infrastructure-landscape-in-2022-and-beyond-c57b9f85505c) `MDS 2022`
-+ [2022 Technology Landscape to Democratize Data](https://modern-cdo.medium.com/2022-technology-landscape-to-democratize-data-272b8228b6cb) `from raw data to insights, discover pre build operationalize`
 
 ## Metadata
 ```
@@ -44,6 +46,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 - [Anomaly Detection Part 1: The Key to Effective Data Observability](https://medium.com/bigeye/anomaly-detection-part-1-the-key-to-effective-data-observability-227e987ea1ec) :hamburger: `observability why`
 + [MLOps-How to do EDA without writing a single line of python code.](https://medium.com/analytics-vidhya/mlops-how-to-do-eda-without-writing-a-single-line-of-python-code-634d95a02367)
 ## Data Mesh
++ [Data Mesh Architecture Patterns](https://towardsdatascience.com/data-mesh-architecture-patterns-98cc1014f251) `Pattern`
 + [Awesome Data Mesh](https://github.com/JacekMajchrzak/awesome-datamesh)
 + [How to Build the Data Mesh Foundation: A Principled Approach](https://www.confluent.io/events/kafka-summit-europe-2021/how-to-build-the-data-mesh-foundation-a-principled-approach/)
 + [DataOps Technologies — Why Meta-Orchestration?](https://medium.com/technexthere/dataops-technologies-part-1-2021-d6fd59a76896)
