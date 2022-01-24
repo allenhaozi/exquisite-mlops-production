@@ -52,3 +52,6 @@
 
 # AutoML
 +[Best OpenSource AutoML frameworks in 2021](https://techninjahere.medium.com/best-opensource-automl-frameworks-4e40820e2d79) :pager: `automl open source`
+
+# AIoT
++ [A comprehensive overview of IoT on AWS: MQTT and AWS IoT Core](https://faun.pub/a-comprehensive-overview-of-iot-on-aws-mqtt-and-aws-iot-core-d18751f58590) `iot`
