@@ -86,3 +86,4 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 ## CDC
 + [DBLog: A Generic Change-Data-Capture Framework](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 + [Change Data Capture: What It Is and How to Use It](https://rockset.com/blog/change-data-capture-what-it-is-and-how-to-use-it/) `CDC tutorial`
++ [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7) `cdc practical`
