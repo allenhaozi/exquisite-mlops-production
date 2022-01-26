@@ -82,3 +82,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [Data SLAs & data products: how they’re related & why it matters](https://medium.com/databand-ai/data-slas-data-products-how-theyre-related-why-it-matters-5a79f8e9dba8) :dog: `data quality SLA`
 + [5 Data Quality Tools You Should Know About](https://betterprogramming.pub/5-data-quality-tools-you-should-know-about-dacc38aa6ba8) :congratulations: `data quality tool set`
 + [DEEQU, I mean Data Quality](https://ajithshetty28.medium.com/deequ-i-mean-data-quality-a0e6c048469d) :train2: `data quality tutorial`
+
+## CDC
++ [DBLog: A Generic Change-Data-Capture Framework](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
++ [Change Data Capture: What It Is and How to Use It](https://rockset.com/blog/change-data-capture-what-it-is-and-how-to-use-it/) `CDC tutorial`
