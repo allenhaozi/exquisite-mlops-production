@@ -41,6 +41,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [What is a Data Lakehouse?](https://medium.com/geekculture/what-is-a-data-lakehouse-2f7407ea1039) :necktie: `Lakehouse tutorial`
 
 + [The Modern Cloud Data Platform war — DataBricks (Part 2)](https://medium.com/data-arena/the-modern-cloud-data-platform-war-databricks-part-2-36adcd3f3aaf) :santa: `data warehouse, data lake, data lakehouse`
++ [Demystifying Data Lake Architecture](https://medium.com/@rpradeepmenon/demystifying-data-lake-architecture-30cf4ac8aa07) `architecture`
 ## Data Visualization && Data Observability
 - [The 10 Best Data Visualizations of 2021](https://towardsdatascience.com/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)
 - [Anomaly Detection Part 1: The Key to Effective Data Observability](https://medium.com/bigeye/anomaly-detection-part-1-the-key-to-effective-data-observability-227e987ea1ec) :hamburger: `observability why`
