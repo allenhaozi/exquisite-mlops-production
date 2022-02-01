@@ -58,6 +58,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [An Architecture for the Data Mesh](https://towardsdatascience.com/an-architecture-for-the-data-mesh-32ff4a15f16f) `data mesh architecture`
 + [A Meta-architecture for Data Mesh](https://qulia.medium.com/a-meta-architecture-for-data-mesh-b89866189c54)  `data mesh meta`
 + [Data Mesh Architecture and the Role of APIs & JSON Schemas](https://towardsdatascience.com/data-mesh-architecture-and-the-role-of-apis-json-schemas-3dc616650960) `APIs & JSON Schemas`
++ [Data Mesh Pattern Deep Dive: Change Data Capture](https://towardsdatascience.com/data-mesh-pattern-deep-dive-change-data-capture-eb3090178c34) `datamesh Change Data Capture`
 ## data versioning
 + [Top MLOps Data Versioning tools — 2021](https://techninjahere.medium.com/top-mlops-data-versoning-tools-2021-6e7df7164260)
 + [Machine Learning Data Visualization](https://towardsdatascience.com/machine-learning-data-visualization-4c386fe3d971)
