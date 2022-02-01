@@ -22,6 +22,8 @@
 ## gateway
 + [Kubernetes NGINX Ingress: 10 Useful Configuration Options](https://loft-sh.medium.com/kubernetes-nginx-ingress-10-useful-configuration-options-919c6086d04c) :baby_chick: `nginx ingress tutorial`
 
+# observability
++ [How to tackle Kubernetes observability challenges with Pixie](https://itnext.io/how-to-tackle-kubernetes-observability-challenges-with-pixie-4c6414ca913) `k8s observability`
 
 # OSS
 + [4 Must-Have Open Source Solutions for Object Storage](https://betterprogramming.pub/top-4-open-source-tools-for-object-storage-e43267bcd724) :wine_glass: `Open Source OSS`
