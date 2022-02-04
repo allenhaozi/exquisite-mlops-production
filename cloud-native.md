@@ -27,3 +27,6 @@
 
 # OSS
 + [4 Must-Have Open Source Solutions for Object Storage](https://betterprogramming.pub/top-4-open-source-tools-for-object-storage-e43267bcd724) :wine_glass: `Open Source OSS`
+
+# Compute
++ [Spark on Kubernetes in 2022](https://medium.com/@vladimir.prus/spark-on-kubernetes-in-2022-32458999e831) `migrated all Spark jobs from spark2 on Yarn To Spark 3 on kubernetes`

@@ -13,7 +13,7 @@
 + [The Best Way to Manage Unstructured Data Efficiently](https://towardsdatascience.com/the-best-way-to-manage-unstructured-data-efficiently-b54dda2c24) `unstructured data`
 + [SaaS Foundations: Building scale-up data infrastructure](https://medium.com/dawn-capital/saas-foundations-building-scale-up-data-infrastructure-25104954d32a) `saas data inf`
 + [The State of Data Infrastructure Landscape in 2022 and Beyond](https://medium.com/event-driven-utopia/the-state-of-data-infrastructure-landscape-in-2022-and-beyond-c57b9f85505c) `MDS 2022`
-
++ [Streaming data vs. real-time data — what’s the difference?](https://medium.com/validio/streaming-data-vs-real-time-data-whats-the-difference-c5fcbe831079)
 ## Metadata
 ```
 Metadata is Data about other Data. Metadata describes the data and provides information about it. 
