@@ -20,6 +20,7 @@
 + [Introduction & Comparison of MLOps platforms: AWS Sagemaker, Azure Machine Learning, GCP Vertex AI](https://medium.com/@vineetjaiswal/introduction-comparison-of-mlops-platforms-aws-sagemaker-azure-machine-learning-gcp-vertex-ai-9c1153399c8e) :sunflower: `mlops on cloud`
 + [End-to-End AutoML Pipeline with H2O AutoML, MLflow, FastAPI, and Streamlit](https://towardsdatascience.com/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) `end to end ml`
 + [MLflow for managing the end-to-end machine learning lifecycle](https://medium.com/techfitlab/mlflow-for-managing-the-end-to-end-machine-learning-lifecycle-9efff9094dda) `mlflow mlops`
++ [Top Github repo trends in 2021](https://rajko-rad.medium.com/top-github-repo-trends-in-2021-e4fa0c724e4) `mention ML/AI`
 ## SaaS
 + [Google Vertex AI: The Easiest Way to Run ML Pipelines](https://blog.doit-intl.com/google-vertex-ai-the-easiest-way-to-run-ml-pipelines-3a41c5ed153)
 + [What Uber Learned from Building Its Own Machine Learning Platform?](https://pub.towardsai.net/what-uber-learned-from-building-its-own-machine-learning-platform-e31bc27a592f) :earth_asia: `mention the pain points of machine learning`
