@@ -28,6 +28,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [The Missing Piece of Data Discovery and Observability Platforms: Open Standard for Metadata](https://towardsdatascience.com/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503) :tangerine: `For the first time, I met a structure that was consistent with my ideas`
 
 ## Data Lake
++ [Open Source Data Lake Table Formats: Evaluating Current Interest and Rate of Adoption](https://medium.com/@garystafford/data-lake-table-formats-interest-and-adoption-rate-40817b87be9e) `Hudi vs Iceberg vs Delta`
 + [Apache HUDI vs Delta Lake](https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5) `HUDI DeltaLake`
 + [Building a Data Lake with Apache Airflow](https://garystafford.medium.com/building-a-data-lake-with-apache-airflow-b48bd953c2b) :speedboat: `datalake airflow`
 + [How to build a Data Lake in your early-stage startup](https://medium.com/pier-stories/how-to-build-a-data-lake-in-your-early-stage-startup-f9a72136591c) :ocean: `data lake tutorial`
