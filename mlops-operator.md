@@ -9,3 +9,6 @@
 
 ## NoteBook
 + [Data Science Workflows — Notebook to Production](https://towardsdatascience.com/data-science-workflows-notebook-to-production-26afc13442bb) :hammer: `NoteBook tutorial`
+
+## Reference
++ [How Airbnb Standardized Metric Computation at Scale](https://medium.com/airbnb-engineering/airbnb-metric-computation-with-minerva-part-2-9afe6695b486) `operator consult`
