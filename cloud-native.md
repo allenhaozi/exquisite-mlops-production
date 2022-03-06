@@ -30,3 +30,4 @@
 
 # Compute
 + [Spark on Kubernetes in 2022](https://medium.com/@vladimir.prus/spark-on-kubernetes-in-2022-32458999e831) `migrated all Spark jobs from spark2 on Yarn To Spark 3 on kubernetes`
++ [Improving Apache Spark performance on k8s](https://medium.com/datamindedbe/improving-apache-spark-performance-on-k8s-b879d67c4f95) `Datafy`
