@@ -38,6 +38,9 @@
 + [Top MLOps Feature Stores — 2021](https://techninjahere.medium.com/top-mlops-feature-store-2021-c71d3a9f820c)
 + [Introduction to Feature Store for Machine Learning](https://trojrobert.medium.com/introduction-to-feature-store-for-machine-learning-a787739d358a) `feature pipeline`
 + [Feature Engineering on the Modern Data Stack](https://medium.com/@jordan_volz/feature-engineering-on-the-modern-data-stack-86387a001b41) `feature`
+
+# Open Source
++ [Level Up Your MLOps Journey with Kedro](https://towardsdatascience.com/level-up-your-mlops-journey-with-kedro-5f000e5d0aa0) 
 # compute
 + [How to guide: Set up, Manage & Monitor Spark on Kubernetes](https://towardsdatascience.com/how-to-guide-set-up-manage-monitor-spark-on-kubernetes-with-code-examples-c5364ad3aba2)
 + [Apache Spark on Kubernetes — On-Premise (Ceph) and AWS (S3)](https://medium.com/@prateek.dubey/apache-spark-on-kubernetes-on-premise-ceph-and-aws-s3-d02b79760cc4)

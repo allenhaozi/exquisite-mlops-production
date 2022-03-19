@@ -16,7 +16,7 @@
 + [Training and AutoML Summit Recap — Part 1](https://journal.arrikto.com/training-and-automl-summit-recap-part-1-arrikto-4cc560543bc7)
 + [Training and AutoML Summit Recap — Part 2](https://journal.arrikto.com/training-and-automl-summit-recap-part-2-871f59a81704)
 + [Automated Data Engineering Pipeline for Batch Data in Machine Learning](https://medium.com/zenofai/automated-data-engineering-pipeline-for-batch-data-in-machine-learning-521bd956ee0a) `ariflow + mongoexport`
-
++ [Apache Airflow in 2022: 10 Rules to Make It Work](https://medium.com/towards-data-science/apache-airflow-in-2022-10-rules-to-make-it-work-b5ed130a51ad)
 ## Prefect
 + [You No Longer Need Two Separate Systems for Batch Processing and Streaming](https://medium.com/the-prefect-blog/you-no-longer-need-two-separate-systems-for-batch-processing-and-streaming-88b3b9c1a203)  `batch streaming together`
 + [Prefect Orion: Our Second-Generation Workflow Engine](https://www.prefect.io/blog/announcing-prefect-orion/) `perfect Second Generation workflow`
