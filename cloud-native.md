@@ -31,6 +31,7 @@
 # Compute
 + [Spark on Kubernetes in 2022](https://medium.com/@vladimir.prus/spark-on-kubernetes-in-2022-32458999e831) `migrated all Spark jobs from spark2 on Yarn To Spark 3 on kubernetes`
 + [Improving Apache Spark performance on k8s](https://medium.com/datamindedbe/improving-apache-spark-performance-on-k8s-b879d67c4f95) `Datafy`
-
-
 + [50+ Kubernetes Tools](https://medium.com/geekculture/50-kubernetes-tools-6acb01d0a876)
+
+# Storage
++ [How to Manage the Data Challenges of a Cloud-Native Platform](https://medium.com/building-the-open-data-stack/how-to-manage-the-data-challenges-of-a-cloud-native-platform-b819d9902ff2) `a distributed and cloud native NoSQL database`

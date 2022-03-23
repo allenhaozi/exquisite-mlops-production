@@ -3,7 +3,9 @@
 ## Library
 + [Announcing PyCaret’s New Time Series Module](https://towardsdatascience.com/announcing-pycarets-new-time-series-module-b6e724d4636c) :cow: `python ml library integration`
 
-## 
+## Framework 
++ [Kedro — A Python Framework for Reproducible Data Science Project](https://towardsdatascience.com/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04)
++ [Kedro-Airflow 0.4.0 — Orchestrating Kedro Pipelines with Airflow](https://medium.com/quantumblack/kedro-airflow-0-4-0-orchestrating-kedro-pipelines-with-airflow-23fb1283f24d) `airflow and kedro`
 
 + [Data Engineers Shouldn’t Write Airflow Dags — Part 1](https://towardsdatascience.com/data-engineers-shouldnt-write-airflow-dags-b885d57737ce)  :signal_strength: `OpenMLStudio should think about it`
 

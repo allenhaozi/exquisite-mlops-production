@@ -15,6 +15,7 @@
 + [Streaming data vs. real-time data — what’s the difference?](https://medium.com/validio/streaming-data-vs-real-time-data-whats-the-difference-c5fcbe831079)
 
 + [Fybrik Open Architecture and Ecosystem](https://medium.com/fybrik/fybrik-open-architecture-and-ecosystem-f0308c745ed6) `data architecture`
++ [How ManyPets Implemented The Modern Data Stack](https://medium.com/data-manypets/how-manypets-implemented-the-modern-data-stack-35877715c0da) `some open source stack`
 ## Metadata
 ```
 Metadata is Data about other Data. Metadata describes the data and provides information about it. 
@@ -95,7 +96,11 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [DEEQU, I mean Data Quality](https://ajithshetty28.medium.com/deequ-i-mean-data-quality-a0e6c048469d) :train2: `data quality tutorial`
 + [4 Data Quality Categories to Watch in 2022](https://medium.com/bigeye/4-data-quality-categories-to-watch-in-2022-7def1bd227ac)
 + [QUpid — End-to-end data quality pipelines (Part1)](https://medium.com/octo-technology-morocco/qupid-end-to-end-data-quality-pipelines-part1-3ea2cd696344)
++ [How To Get Started Managing Data Quality With SQL and Scale](https://sodadata.medium.com/how-to-get-started-managing-data-quality-with-sql-and-scale-d4108e4684aa)
 ## CDC
 + [DBLog: A Generic Change-Data-Capture Framework](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 + [Change Data Capture: What It Is and How to Use It](https://rockset.com/blog/change-data-capture-what-it-is-and-how-to-use-it/) `CDC tutorial`
 + [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7) `cdc practical`
+
+
+## 
