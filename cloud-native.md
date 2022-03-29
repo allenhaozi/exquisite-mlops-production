@@ -1,5 +1,5 @@
 + [We Pushed Helm to the Limit—then Built a Kubernetes Operator](https://datastax.medium.com/we-pushed-helm-to-the-limit-then-built-a-kubernetes-operator-5136f7c71e91)
-
++ [8 open source project you should try out](https://medium.com/@itsrakesh/8-best-opensource-projects-you-should-try-out-c0637d3c6ed3)
 
 
 

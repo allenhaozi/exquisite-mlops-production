@@ -103,4 +103,5 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7) `cdc practical`
 
 
-## 
+## Lineage 
++ [Getting started with Data Lineage](https://medium.com/dailymotion/getting-started-with-data-lineage-6307b2b429b3)
