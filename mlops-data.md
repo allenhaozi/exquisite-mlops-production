@@ -90,6 +90,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [How we build a Cloud Data lake using ELT instead of ETL](https://jomach.medium.com/how-we-build-a-cloud-data-lake-using-elt-instead-of-etl-c05c076001e0) `data lake + etl`
 + [Airbyte or Meltano — and why I use neither of them](https://gitznik.medium.com/airbyte-or-meltano-and-why-i-use-neither-of-them-4dcfcfafb86a) `Airbyte vs Meltano`
 + [6 data integration principles for data engineers to live by](https://medium.com/databand-ai/6-data-integration-principles-for-data-engineers-to-live-by-915749d9ada8)
++ [Python ETL Pipeline: The Incremental data load Techniques](https://blog.devgenius.io/python-etl-pipeline-the-incremental-data-load-techniques-20bdedaae8f)
 ## Data Quality 
 + [Data SLAs & data products: how they’re related & why it matters](https://medium.com/databand-ai/data-slas-data-products-how-theyre-related-why-it-matters-5a79f8e9dba8) :dog: `data quality SLA`
 + [5 Data Quality Tools You Should Know About](https://betterprogramming.pub/5-data-quality-tools-you-should-know-about-dacc38aa6ba8) :congratulations: `data quality tool set`

@@ -8,6 +8,8 @@
 + [How to Build an ML Model Registry: A Step-by-step Guide from Opendoor Engineering](https://medium.com/opendoor-labs/how-to-build-an-ml-model-registry-a-step-by-step-guide-from-opendoor-engineering-cee36d965937)
 + [Benefits of the MLflow Model Registry](https://medium.com/infinstor/benefits-of-the-mlflow-model-registry-37e534de599) :palm_tree: `mlflow model registry tutorial`
 
+## model performance
++ [Introducing ML Performance Tracing](https://towardsdatascience.com/introducing-ml-performance-tracing-4a1f0042b65d)
 
 ## model debug
 + [Aim 3.0.0 — The foundations for open-source & open-metadata ML platform](https://medium.com/aimstack/aim-3-0-0-the-foundations-for-open-source-open-metadata-ml-platform-f3969755d55)
