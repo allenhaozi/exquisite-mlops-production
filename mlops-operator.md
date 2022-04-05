@@ -9,6 +9,9 @@
 
 + [Data Engineers Shouldn’t Write Airflow Dags — Part 1](https://towardsdatascience.com/data-engineers-shouldnt-write-airflow-dags-b885d57737ce)  :signal_strength: `OpenMLStudio should think about it`
 
+## compute
++ [2022 : No FileSystem for scheme: s3? How to read/write data from AWS S3 with a Standalone Apache Spark 3.2.1 setup? and use Delta as format?](https://medium.com/@mageswaran1989/2022-no-filesystem-for-scheme-s3-cbd72c99a50c) `pyspark + s3`
+
 ## NoteBook
 + [Data Science Workflows — Notebook to Production](https://towardsdatascience.com/data-science-workflows-notebook-to-production-26afc13442bb) :hammer: `NoteBook tutorial`
 

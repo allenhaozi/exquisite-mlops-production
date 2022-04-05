@@ -59,3 +59,4 @@
 
 # AIoT
 + [A comprehensive overview of IoT on AWS: MQTT and AWS IoT Core](https://faun.pub/a-comprehensive-overview-of-iot-on-aws-mqtt-and-aws-iot-core-d18751f58590) `iot`
++ [[IoT] Simple IoT with free cloud solutions (tutorial)](https://medium.com/gowombat/iot-simple-iot-with-free-cloud-solutions-tutorial-76ac5cf6e5a0)
