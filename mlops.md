@@ -41,6 +41,7 @@
 
 # Open Source
 + [Level Up Your MLOps Journey with Kedro](https://towardsdatascience.com/level-up-your-mlops-journey-with-kedro-5f000e5d0aa0) 
++ [Building an Open Source ML Pipeline: Part 1](https://towardsdatascience.com/building-an-open-source-ml-pipeline-part-1-5b52d06351d1) `open source`
 # compute
 + [How to guide: Set up, Manage & Monitor Spark on Kubernetes](https://towardsdatascience.com/how-to-guide-set-up-manage-monitor-spark-on-kubernetes-with-code-examples-c5364ad3aba2)
 + [Apache Spark on Kubernetes — On-Premise (Ceph) and AWS (S3)](https://medium.com/@prateek.dubey/apache-spark-on-kubernetes-on-premise-ceph-and-aws-s3-d02b79760cc4)

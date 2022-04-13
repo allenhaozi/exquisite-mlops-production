@@ -30,7 +30,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [Rethink Metadata … It’s Facets](https://medium.com/@mcdeepak/rethink-metadata-its-facets-f02fffa7a7a1) :snowflake: `metadata thinking`
 + [The Missing Piece of Data Discovery and Observability Platforms: Open Standard for Metadata](https://towardsdatascience.com/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503) :tangerine: `For the first time, I met a structure that was consistent with my ideas`
 + [Metadata Management, A Critical Element in Data Governance](https://medium.com/life-at-telkomsel/metadata-management-a-critical-element-in-data-governance-d66789c29bc1)
-
++ [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
 ## Data Lake
 + [Level Up Your Data Lake](https://medium.com/whispering-data/level-up-your-data-lake-a227828c8314)
 + [Open Source Data Lake Table Formats: Evaluating Current Interest and Rate of Adoption](https://medium.com/@garystafford/data-lake-table-formats-interest-and-adoption-rate-40817b87be9e) `Hudi vs Iceberg vs Delta`
@@ -46,7 +46,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [Road to Lakehouse — Part 2: Ingest and process data from Kafka with CDC and Delta Lake’s CDF](https://tam159.medium.com/road-to-lakehouse-part-2-ingest-and-process-data-from-kafka-with-cdc-and-delta-lakes-cdf-318708468a47)
 + [Iceberg at Adobe](https://medium.com/adobetech/iceberg-at-adobe-88cf1950e866) `iceberg practice`
 + [Challenges with data lakes](https://nitis3211.medium.com/challenges-with-data-lakes-ddabf106b460)
-
++ [Modern data architecture recipes](https://ciurlaro.medium.com/modern-data-architecture-recipes-3c16da0c7a46)
 ## Data Lakehouse
 + [What is a Data Lakehouse?](https://medium.com/geekculture/what-is-a-data-lakehouse-2f7407ea1039) :necktie: `Lakehouse tutorial`
 
@@ -111,3 +111,6 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 
 ## File Formats
 + [Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store](https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9)
+
+## Storage
++ [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
