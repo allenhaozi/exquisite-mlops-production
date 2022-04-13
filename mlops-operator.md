@@ -11,7 +11,7 @@
 
 ## compute
 + [2022 : No FileSystem for scheme: s3? How to read/write data from AWS S3 with a Standalone Apache Spark 3.2.1 setup? and use Delta as format?](https://medium.com/@mageswaran1989/2022-no-filesystem-for-scheme-s3-cbd72c99a50c) `pyspark + s3`
-
++ [Productionalizing Spark Streaming Applications](https://blog.clairvoyantsoft.com/productionalizing-spark-streaming-applications-4d1c8711c7b0) `spark streaming`
 ## NoteBook
 + [Data Science Workflows — Notebook to Production](https://towardsdatascience.com/data-science-workflows-notebook-to-production-26afc13442bb) :hammer: `NoteBook tutorial`
 

@@ -25,8 +25,6 @@
 # observability
 + [How to tackle Kubernetes observability challenges with Pixie](https://itnext.io/how-to-tackle-kubernetes-observability-challenges-with-pixie-4c6414ca913) `k8s observability`
 
-# OSS
-+ [4 Must-Have Open Source Solutions for Object Storage](https://betterprogramming.pub/top-4-open-source-tools-for-object-storage-e43267bcd724) :wine_glass: `Open Source OSS`
 
 # Compute
 + [Spark on Kubernetes in 2022](https://medium.com/@vladimir.prus/spark-on-kubernetes-in-2022-32458999e831) `migrated all Spark jobs from spark2 on Yarn To Spark 3 on kubernetes`
@@ -35,3 +33,6 @@
 
 # Storage
 + [How to Manage the Data Challenges of a Cloud-Native Platform](https://medium.com/building-the-open-data-stack/how-to-manage-the-data-challenges-of-a-cloud-native-platform-b819d9902ff2) `a distributed and cloud native NoSQL database`
++ [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
+## OSS
++ [4 Must-Have Open Source Solutions for Object Storage](https://betterprogramming.pub/top-4-open-source-tools-for-object-storage-e43267bcd724) :wine_glass: `Open Source OSS`
