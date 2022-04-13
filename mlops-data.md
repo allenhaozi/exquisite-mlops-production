@@ -111,3 +111,6 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 
 ## File Formats
 + [Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store](https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9)
+
+## Storage
++ [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
