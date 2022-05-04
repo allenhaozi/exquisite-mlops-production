@@ -1,6 +1,7 @@
 # Data
 
 ## Overview
++ [Who’s Who in the Modern Data Stack Ecosystem (Spring 2022)](https://medium.com/@jordan_volz/whos-who-in-the-modern-data-stack-ecosystem-spring-2022-c45854653dc4)
 + [2022 Technology Landscape to Democratize Data](https://modern-cdo.medium.com/2022-technology-landscape-to-democratize-data-272b8228b6cb) `from raw data to insights, discover pre build operationalize`
 + [The Future of the Modern Data Stack in 2022](https://medium.com/towards-data-science/the-future-of-the-modern-data-stack-in-2022-4f4c91bb778f) ``
 + [SaaS Foundations: Building scale-up data infrastructure](https://medium.com/dawn-capital/saas-foundations-building-scale-up-data-infrastructure-25104954d32a)
@@ -31,6 +32,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 + [The Missing Piece of Data Discovery and Observability Platforms: Open Standard for Metadata](https://towardsdatascience.com/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503) :tangerine: `For the first time, I met a structure that was consistent with my ideas`
 + [Metadata Management, A Critical Element in Data Governance](https://medium.com/life-at-telkomsel/metadata-management-a-critical-element-in-data-governance-d66789c29bc1)
 + [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
++ [Hive Metastore – Why It’s Still Here and What Can Replace It?](https://lakefs.io/hive-metastore-why-its-still-here-and-what-can-replace-it/)
 ## Data Lake
 + [Level Up Your Data Lake](https://medium.com/whispering-data/level-up-your-data-lake-a227828c8314)
 + [Open Source Data Lake Table Formats: Evaluating Current Interest and Rate of Adoption](https://medium.com/@garystafford/data-lake-table-formats-interest-and-adoption-rate-40817b87be9e) `Hudi vs Iceberg vs Delta`
