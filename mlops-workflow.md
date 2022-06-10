@@ -1,6 +1,7 @@
 # workflow
 
 ## Airflow 
++ [Apache Airflow and Kubernetes — Pain Points and Plugins to the Rescue](https://medium.com/swlh/apache-airflow-and-kubernetes-pain-points-and-lessons-learned-a8124296a612)
 + [Why we must choose Kubernetes executor for Airflow](https://towardsdatascience.com/why-we-must-choose-kubernetes-executor-for-airflow-28176062a91b)
 + [Apache Airflow: KubernetesExecutor](https://brandenpleines.medium.com/apache-airflow-kubernetesexecutor-e16ae33868b1) :gem: `airflow kubernetes tutorial`
 + [Kubeflow and MLOps Workshop Recap — Sept 2021](https://journal.arrikto.com/kubeflow-and-mlops-workshop-recap-sept-2021-a5f014ddcb35)
