@@ -14,6 +14,7 @@
 + [Productionalizing Spark Streaming Applications](https://blog.clairvoyantsoft.com/productionalizing-spark-streaming-applications-4d1c8711c7b0) `spark streaming`
 + [Dask or Spark? A Comparison for Data Scientists](https://medium.com/geekculture/dask-or-spark-a-comparison-for-data-scientists-d4cba8ba9ef7)
 + [Delta vs Iceberg : Performance as a decisive criteria](https://databeans-blogs.medium.com/delta-vs-iceberg-performance-as-a-decisive-criteria-add7bcdde03d)
++ [PrestoSQL/Trino with S3 in Kubernetes Baremetal](https://medium.com/techlogs/prestosql-trino-with-s3-in-kubernetes-baremetal-eb11cab1b51f)
 ## NoteBook
 + [Data Science Workflows — Notebook to Production](https://towardsdatascience.com/data-science-workflows-notebook-to-production-26afc13442bb) :hammer: `NoteBook tutorial`
 
