@@ -13,6 +13,7 @@
 + [2022 : No FileSystem for scheme: s3? How to read/write data from AWS S3 with a Standalone Apache Spark 3.2.1 setup? and use Delta as format?](https://medium.com/@mageswaran1989/2022-no-filesystem-for-scheme-s3-cbd72c99a50c) `pyspark + s3`
 + [Productionalizing Spark Streaming Applications](https://blog.clairvoyantsoft.com/productionalizing-spark-streaming-applications-4d1c8711c7b0) `spark streaming`
 + [Dask or Spark? A Comparison for Data Scientists](https://medium.com/geekculture/dask-or-spark-a-comparison-for-data-scientists-d4cba8ba9ef7)
++ [Delta vs Iceberg : Performance as a decisive criteria](https://databeans-blogs.medium.com/delta-vs-iceberg-performance-as-a-decisive-criteria-add7bcdde03d)
 ## NoteBook
 + [Data Science Workflows — Notebook to Production](https://towardsdatascience.com/data-science-workflows-notebook-to-production-26afc13442bb) :hammer: `NoteBook tutorial`
 
