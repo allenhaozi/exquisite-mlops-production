@@ -1,6 +1,7 @@
 # workflow
 
 ## Airflow 
++ [Apache Airflow Tips and Best Practices](https://towardsdatascience.com/apache-airflow-tips-and-best-practices-ff64ce92ef8)
 + [Apache Airflow and Kubernetes — Pain Points and Plugins to the Rescue](https://medium.com/swlh/apache-airflow-and-kubernetes-pain-points-and-lessons-learned-a8124296a612)
 + [Why we must choose Kubernetes executor for Airflow](https://towardsdatascience.com/why-we-must-choose-kubernetes-executor-for-airflow-28176062a91b)
 + [Apache Airflow: KubernetesExecutor](https://brandenpleines.medium.com/apache-airflow-kubernetesexecutor-e16ae33868b1) :gem: `airflow kubernetes tutorial`
