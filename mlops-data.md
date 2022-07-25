@@ -60,6 +60,7 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 - [Anomaly Detection Part 1: The Key to Effective Data Observability](https://medium.com/bigeye/anomaly-detection-part-1-the-key-to-effective-data-observability-227e987ea1ec) :hamburger: `observability why`
 + [MLOps-How to do EDA without writing a single line of python code.](https://medium.com/analytics-vidhya/mlops-how-to-do-eda-without-writing-a-single-line-of-python-code-634d95a02367)
 ## Data Mesh
++ [Data Contracts — The Mesh glue](https://velascoluis.medium.com/data-contracts-the-mesh-glue-c1b533e2a664)
 + [Data Mesh Architecture Patterns](https://towardsdatascience.com/data-mesh-architecture-patterns-98cc1014f251) `Pattern`
 + [Awesome Data Mesh](https://github.com/JacekMajchrzak/awesome-datamesh)
 + [How to Build the Data Mesh Foundation: A Principled Approach](https://www.confluent.io/events/kafka-summit-europe-2021/how-to-build-the-data-mesh-foundation-a-principled-approach/)
