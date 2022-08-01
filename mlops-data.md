@@ -1,6 +1,7 @@
 # Data
 
 ## Overview
++ [What’s Next in the Modern Data Stack?](https://medium.com/inkef-capital/whats-next-in-the-modern-data-stack-69afa3aa6df9)
 + [Who’s Who in the Modern Data Stack Ecosystem (Spring 2022)](https://medium.com/@jordan_volz/whos-who-in-the-modern-data-stack-ecosystem-spring-2022-c45854653dc4)
 + [2022 Technology Landscape to Democratize Data](https://modern-cdo.medium.com/2022-technology-landscape-to-democratize-data-272b8228b6cb) `from raw data to insights, discover pre build operationalize`
 + [The Future of the Modern Data Stack in 2022](https://medium.com/towards-data-science/the-future-of-the-modern-data-stack-in-2022-4f4c91bb778f) ``
@@ -23,6 +24,7 @@ Metadata is Data about other Data. Metadata describes the data and provides info
 Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 
 ```
++ [Data Governance Part 2 — Data Governance Platforms](https://medium.com/@kanchan.tewary/data-governance-part-2-data-governance-platforms-32a266143164)
 + [Data catalog ROI — A Primer](https://medium.com/castor-app/data-catalog-roi-a-primer-a57d42d054cf)
 + [What is metadata?](https://towardsdatascience.com/what-is-metadata-800403c0767b) :crown: `metadata tutorial`
 + [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)

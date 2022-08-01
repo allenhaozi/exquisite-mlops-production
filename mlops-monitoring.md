@@ -41,8 +41,9 @@ model and data
 + [Why data drift detection is important and how do you automate it in 5 simple steps](https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93) :blush: `data drift tutorial`
 
 ## Data Quality
-[Data Governance Part 3 — Data Quality](https://medium.com/@kanchan.tewary/data-governance-part-3-data-quality-887de3a41e49)
-[The Top Data Quality Metrics You Need to Know (With Examples)](https://medium.com/databand-ai/the-top-data-quality-metrics-you-need-to-know-with-examples-792acb054ddf)
++ [Add Data Profiling and Assertions to dbt with PipeRider](https://medium.com/infuseai/add-data-profiling-and-assertions-to-dbt-with-piperider-732ca0821e3a)
++ [Data Governance Part 3 — Data Quality](https://medium.com/@kanchan.tewary/data-governance-part-3-data-quality-887de3a41e49)
++ [The Top Data Quality Metrics You Need to Know (With Examples)](https://medium.com/databand-ai/the-top-data-quality-metrics-you-need-to-know-with-examples-792acb054ddf)
 + [Data SLAs & data products: how they’re related & why it matters](https://medium.com/databand-ai/data-slas-data-products-how-theyre-related-why-it-matters-5a79f8e9dba8) :dog: `data quality SLA`
 + [5 Data Quality Tools You Should Know About](https://betterprogramming.pub/5-data-quality-tools-you-should-know-about-dacc38aa6ba8) :congratulations: `data quality tool set`
 + [DEEQU, I mean Data Quality](https://ajithshetty28.medium.com/deequ-i-mean-data-quality-a0e6c048469d) :train2: `data quality tutorial`
