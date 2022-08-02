@@ -36,7 +36,7 @@ model and data
 + [Inside Manifold: Uber’s Stack for Debugging Machine Learning Models](https://pub.towardsai.net/inside-manifold-ubers-stack-for-debugging-machine-learning-models-e4daf6830665) :computer: `model debugging`
 
 ### Data Drift
-
++ [Data Logging With whylogs](https://medium.com/whylabs/data-logging-with-whylogs-9acfc6f5b82e)
 + [Automating Data Drift Thresholding in Machine Learning Systems](https://towardsdatascience.com/automating-data-drift-thresholding-in-machine-learning-systems-524e6259f59f) :beer: `data drift how`
 + [Why data drift detection is important and how do you automate it in 5 simple steps](https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93) :blush: `data drift tutorial`
 
