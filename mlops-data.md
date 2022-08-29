@@ -110,3 +110,6 @@ Knowing Metadata is knowing “who, what, where, why, when and how” of Data.
 
 ## Storage
 + [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
+
+## feature store
++ [14 Top Feature Stores Compared](https://brianray-7981.medium.com/14-top-feature-stores-compared-first-draft-86e0133311a9)
