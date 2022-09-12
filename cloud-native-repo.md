@@ -7,5 +7,7 @@ SQL users leverage Redash to explore, query, visualize, and share data from any 
 ```
 
 ## Persistence
-+ [Container Object Storage Controller
-](https://github.com/kubernetes-sigs/container-object-storage-interface-controller)
++ [Container Object Storage Controller](https://github.com/kubernetes-sigs/container-object-storage-interface-controller)
+
+
+## Log 

@@ -9,6 +9,11 @@
 
 + [Data Engineers Shouldn’t Write Airflow Dags — Part 1](https://towardsdatascience.com/data-engineers-shouldnt-write-airflow-dags-b885d57737ce)  :signal_strength: `OpenMLStudio should think about it`
 
+
+## Python
++ [Complete Guide to Pandas Dataframe With Real-time Use Case](https://pub.towardsai.net/complete-guide-to-pandas-dataframe-with-real-time-use-case-c576d3e20fb3)
++ [4 Python Standalone Executables for a Simpler App Interaction](https://levelup.gitconnected.com/4-python-standalone-executables-for-a-simpler-app-interaction-d47b6a560919)
+
 ## compute
 + [2022 : No FileSystem for scheme: s3? How to read/write data from AWS S3 with a Standalone Apache Spark 3.2.1 setup? and use Delta as format?](https://medium.com/@mageswaran1989/2022-no-filesystem-for-scheme-s3-cbd72c99a50c) `pyspark + s3`
 + [Productionalizing Spark Streaming Applications](https://blog.clairvoyantsoft.com/productionalizing-spark-streaming-applications-4d1c8711c7b0) `spark streaming`
