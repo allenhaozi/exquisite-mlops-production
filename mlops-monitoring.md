@@ -16,6 +16,8 @@
 
 model and data
 
+
+
 ## model monitor
 + [How to Detect Model Drift in MLOps Monitoring](https://towardsdatascience.com/how-to-detect-model-drift-in-mlops-monitoring-7a039c22eaf9)
 + [Top MLOps Model Monitoring Tools — 2021](https://techninjahere.medium.com/top-mlops-model-monitoring-tools-2021-e9f616310ffd)
