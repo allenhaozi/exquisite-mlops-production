@@ -1,6 +1,7 @@
 # workflow
 
 ## Airflow 
++ [Dynamically Generating DAGs in Airflow](https://www.astronomer.io/guides/dynamically-generating-dags/)
 + [Data Engineers Shouldn’t Write Airflow Dags — Part 1](https://towardsdatascience.com/data-engineers-shouldnt-write-airflow-dags-b885d57737ce)
 + [Apache Airflow Tips and Best Practices](https://towardsdatascience.com/apache-airflow-tips-and-best-practices-ff64ce92ef8)
 + [Apache Airflow and Kubernetes — Pain Points and Plugins to the Rescue](https://medium.com/swlh/apache-airflow-and-kubernetes-pain-points-and-lessons-learned-a8124296a612)
