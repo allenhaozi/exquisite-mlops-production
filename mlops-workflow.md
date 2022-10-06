@@ -1,6 +1,7 @@
 # workflow
 
 ## Airflow 
++ [Airflow Executors explained.](https://medium.com/@rohit.garde/airflow-executors-explained-6f7174cecd8e)
 + [Dynamically Generating DAGs in Airflow](https://www.astronomer.io/guides/dynamically-generating-dags/)
 + [Data Engineers Shouldn’t Write Airflow Dags — Part 1](https://towardsdatascience.com/data-engineers-shouldnt-write-airflow-dags-b885d57737ce)
 + [Apache Airflow Tips and Best Practices](https://towardsdatascience.com/apache-airflow-tips-and-best-practices-ff64ce92ef8)

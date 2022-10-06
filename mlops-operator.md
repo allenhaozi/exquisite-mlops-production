@@ -18,6 +18,7 @@
 
 
 ## Python
++ [11 Pythonic Ways to Optimise your Code](https://medium.com/geekculture/11-pythonic-ways-to-optimise-your-code-466d8563d516)
 + [This Decorator will Make Python 30 Times Faster](https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f)
 + [Complete Guide to Pandas Dataframe With Real-time Use Case](https://pub.towardsai.net/complete-guide-to-pandas-dataframe-with-real-time-use-case-c576d3e20fb3)
 + [4 Python Standalone Executables for a Simpler App Interaction](https://levelup.gitconnected.com/4-python-standalone-executables-for-a-simpler-app-interaction-d47b6a560919)

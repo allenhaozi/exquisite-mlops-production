@@ -38,3 +38,6 @@
 + [Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups](https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6)
 ## OSS
 + [4 Must-Have Open Source Solutions for Object Storage](https://betterprogramming.pub/top-4-open-source-tools-for-object-storage-e43267bcd724) :wine_glass: `Open Source OSS`
+
+## Container
++ [K8s — Write Efficient Dockerfile](https://tonylixu.medium.com/k8s-write-efficient-dockerfile-caf099aa17f4)
