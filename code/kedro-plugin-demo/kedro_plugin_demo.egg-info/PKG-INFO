@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: kedro-plugin-demo
+Version: 0.0.1
+Summary: kedro plugin demo
+Home-page: https://github.com/allenhaozi/exquisite-mlops-production
+Author: allen
+License: Apache Software License (Apache 2.0)
+Platform: UNKNOWN
+Requires-Python: >=3.7, <3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# kedro-plugin-demo
+
+this is just for kedro plugin demo
+

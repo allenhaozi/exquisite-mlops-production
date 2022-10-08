@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+kedro_plugin_demo/__init__.py
+kedro_plugin_demo/plugin.py
+kedro_plugin_demo.egg-info/PKG-INFO
+kedro_plugin_demo.egg-info/SOURCES.txt
+kedro_plugin_demo.egg-info/dependency_links.txt
+kedro_plugin_demo.egg-info/entry_points.txt
+kedro_plugin_demo.egg-info/not-zip-safe
+kedro_plugin_demo.egg-info/requires.txt
+kedro_plugin_demo.egg-info/top_level.txt
