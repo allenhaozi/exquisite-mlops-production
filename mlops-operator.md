@@ -22,6 +22,7 @@
 + [This Decorator will Make Python 30 Times Faster](https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f)
 + [Complete Guide to Pandas Dataframe With Real-time Use Case](https://pub.towardsai.net/complete-guide-to-pandas-dataframe-with-real-time-use-case-c576d3e20fb3)
 + [4 Python Standalone Executables for a Simpler App Interaction](https://levelup.gitconnected.com/4-python-standalone-executables-for-a-simpler-app-interaction-d47b6a560919)
++ [easydict](https://github.com/makinacorpus/easydict)
 
 ## compute
 + [2022 : No FileSystem for scheme: s3? How to read/write data from AWS S3 with a Standalone Apache Spark 3.2.1 setup? and use Delta as format?](https://medium.com/@mageswaran1989/2022-no-filesystem-for-scheme-s3-cbd72c99a50c) `pyspark + s3`
