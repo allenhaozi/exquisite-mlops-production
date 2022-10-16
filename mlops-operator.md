@@ -9,6 +9,7 @@
 + [Simplify MLOps with PyCaret, MLflow, and DagsHub](https://moez-62905.medium.com/simplify-mlops-with-pycaret-mlflow-and-dagshub-366c768f0dac)
 
 ## Framework 
++ [Kedro meets gradio](https://medium.com/@atsushihara/kedro-meets-gradio-cb843b2b0e2a)
 + [kedro-plugins](https://github.com/kedro-org/kedro-plugins)
 + [Kedro Airflow K8S Plugin](https://github.com/getindata/kedro-airflow-k8s)
 + [Kedro — A Python Framework for Reproducible Data Science Project](https://towardsdatascience.com/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04)
@@ -18,6 +19,7 @@
 
 
 ## Python
++ [6 Concepts To Master When Dockerizing Python Applications](https://betterprogramming.pub/6-concepts-to-master-when-dockerizing-python-applications-e5f5a6a87845)
 + [11 Pythonic Ways to Optimise your Code](https://medium.com/geekculture/11-pythonic-ways-to-optimise-your-code-466d8563d516)
 + [This Decorator will Make Python 30 Times Faster](https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f)
 + [Complete Guide to Pandas Dataframe With Real-time Use Case](https://pub.towardsai.net/complete-guide-to-pandas-dataframe-with-real-time-use-case-c576d3e20fb3)
