@@ -16,6 +16,8 @@
 
 model and data
 
+## data monitor
++ [Streamlining data monitoring with whylogs and MLflow](https://medium.com/whylabs/streamlining-data-monitoring-with-whylogs-and-mlflow-8f007ffa16ad)
 
 
 ## model monitor

@@ -19,6 +19,7 @@
 
 
 ## Python
++ [How To Eliminate Loops From Your Python Code](https://levelup.gitconnected.com/how-to-eliminate-loops-from-your-python-code-6dfb7c3578fa)
 + [6 Concepts To Master When Dockerizing Python Applications](https://betterprogramming.pub/6-concepts-to-master-when-dockerizing-python-applications-e5f5a6a87845)
 + [11 Pythonic Ways to Optimise your Code](https://medium.com/geekculture/11-pythonic-ways-to-optimise-your-code-466d8563d516)
 + [This Decorator will Make Python 30 Times Faster](https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f)
