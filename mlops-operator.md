@@ -20,6 +20,7 @@
 
 
 ## Python
++ [Time Series Libraries for Python](https://alpersinbalc.medium.com/time-series-libraries-for-python-4e41e9d0328b)
 + [5 Python Features That I Was Unaware Even Existed](https://betterprogramming.pub/python-features-that-i-was-unaware-even-existed-8465a50a6378)
 + [How To Eliminate Loops From Your Python Code](https://levelup.gitconnected.com/how-to-eliminate-loops-from-your-python-code-6dfb7c3578fa)
 + [6 Concepts To Master When Dockerizing Python Applications](https://betterprogramming.pub/6-concepts-to-master-when-dockerizing-python-applications-e5f5a6a87845)
