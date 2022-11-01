@@ -1,5 +1,7 @@
 # Operator
 
+## Configuration
++ [Hydra, the most efficient config handling library for your Python/ML code](https://medium.com/@armand-sauzay/hydra-the-most-efficient-config-handling-library-for-your-python-ml-code-9178d491523c)
 
 ## Logging
 + [Logging for ML Systems](https://medium.com/@DavidElvis/logging-for-ml-systems-1b055005c2c2)
@@ -18,6 +20,7 @@
 
 
 ## Python
++ [5 Python Features That I Was Unaware Even Existed](https://betterprogramming.pub/python-features-that-i-was-unaware-even-existed-8465a50a6378)
 + [How To Eliminate Loops From Your Python Code](https://levelup.gitconnected.com/how-to-eliminate-loops-from-your-python-code-6dfb7c3578fa)
 + [6 Concepts To Master When Dockerizing Python Applications](https://betterprogramming.pub/6-concepts-to-master-when-dockerizing-python-applications-e5f5a6a87845)
 + [11 Pythonic Ways to Optimise your Code](https://medium.com/geekculture/11-pythonic-ways-to-optimise-your-code-466d8563d516)
