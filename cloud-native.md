@@ -1,6 +1,9 @@
 + [We Pushed Helm to the Limit—then Built a Kubernetes Operator](https://datastax.medium.com/we-pushed-helm-to-the-limit-then-built-a-kubernetes-operator-5136f7c71e91)
 + [8 open source project you should try out](https://medium.com/@itsrakesh/8-best-opensource-projects-you-should-try-out-c0637d3c6ed3)
 
++ [10 New DevOps Tools to Watch in 2023](https://medium.com/4th-coffee/10-new-devops-tools-to-watch-in-2023-e974dbb1f1bb)
++ [The Top 10 Products From KubeCon North America 2022](https://medium.com/@rphilogene/the-top-10-products-from-kubecon-north-america-2022-a6a8c0902427)
+
 # kubernetes
 + [6 kubectl plugins you must try](https://itnext.io/6-kubectl-plugins-you-must-try-1411dcbcf950)
 
