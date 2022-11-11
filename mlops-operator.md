@@ -31,6 +31,7 @@
 + [easydict](https://github.com/makinacorpus/easydict)
 
 ## compute
++ [Spark — good practices: some common caveats and solutions](https://medium.com/@aquilae/spark-good-practices-some-common-caveats-and-solutions-ce0e9eeab84)
 + [2022 : No FileSystem for scheme: s3? How to read/write data from AWS S3 with a Standalone Apache Spark 3.2.1 setup? and use Delta as format?](https://medium.com/@mageswaran1989/2022-no-filesystem-for-scheme-s3-cbd72c99a50c) `pyspark + s3`
 + [Productionalizing Spark Streaming Applications](https://blog.clairvoyantsoft.com/productionalizing-spark-streaming-applications-4d1c8711c7b0) `spark streaming`
 + [Dask or Spark? A Comparison for Data Scientists](https://medium.com/geekculture/dask-or-spark-a-comparison-for-data-scientists-d4cba8ba9ef7)
