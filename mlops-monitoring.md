@@ -19,6 +19,8 @@ model and data
 ## data monitor
 + [Streamlining data monitoring with whylogs and MLflow](https://medium.com/whylabs/streamlining-data-monitoring-with-whylogs-and-mlflow-8f007ffa16ad)
 
+## image monitoring
++ [Monitoring Image Data with whylogs v1](https://medium.com/whylabs/monitoring-image-data-with-whylogs-v1-dd20a1c2bbdf)
 
 ## model monitor
 + [How to Detect Model Drift in MLOps Monitoring](https://towardsdatascience.com/how-to-detect-model-drift-in-mlops-monitoring-7a039c22eaf9)
