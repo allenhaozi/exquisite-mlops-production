@@ -1,0 +1,13 @@
+{
+  "paths": [
+    {
+      "_path": "bin/micromamba",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/micromamba_1654093731606/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "21327650c214460fccf5ea36d70cc647f90e88f8fcb27a28165a5a43af285a7e",
+      "size_in_bytes": 14817208
+    }
+  ],
+  "paths_version": 1
+}

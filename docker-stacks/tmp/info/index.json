@@ -1,0 +1,13 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "depends": [],
+  "license": "BSD-3-Clause AND MIT AND OpenSSL",
+  "license_family": "BSD",
+  "name": "micromamba",
+  "platform": "linux",
+  "subdir": "linux-64",
+  "timestamp": 1654094167952,
+  "version": "0.24.0"
+}

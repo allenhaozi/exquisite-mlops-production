@@ -1,6 +1,9 @@
 # Conda configuration see https://conda.io/projects/conda/en/latest/configuration.html
-
 auto_update_conda: false
 show_channel_urls: true
 channels:
-  - conda-forge
+- https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
+- https://mirrors.ustc.edu.cn/anaconda/cloud/conda-forge/
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+- defaults
+
