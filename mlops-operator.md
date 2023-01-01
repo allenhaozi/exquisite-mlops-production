@@ -10,6 +10,7 @@
 + [Simplify MLOps with PyCaret, MLflow, and DagsHub](https://moez-62905.medium.com/simplify-mlops-with-pycaret-mlflow-and-dagshub-366c768f0dac)
 
 ## Framework 
++ [Deep Learning with Azure: PyTorch distributed training done right in Kedro](https://medium.com/getindata-blog/deep-learning-with-azure-pytorch-distributed-training-done-right-in-kedro-81db96bc081c)
 + [Kedro meets gradio](https://medium.com/@atsushihara/kedro-meets-gradio-cb843b2b0e2a)
 + [kedro-plugins](https://github.com/kedro-org/kedro-plugins)
 + [Kedro Airflow K8S Plugin](https://github.com/getindata/kedro-airflow-k8s)
