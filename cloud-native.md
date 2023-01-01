@@ -4,6 +4,8 @@
 + [10 New DevOps Tools to Watch in 2023](https://medium.com/4th-coffee/10-new-devops-tools-to-watch-in-2023-e974dbb1f1bb)
 + [The Top 10 Products From KubeCon North America 2022](https://medium.com/@rphilogene/the-top-10-products-from-kubecon-north-america-2022-a6a8c0902427)
 
+# deployment
+[Empowering Developers with Kubernetes Deployments](https://faun.pub/empowering-developers-with-kubernetes-deployments-b4b7867349a9)
 # kubernetes
 + [6 kubectl plugins you must try](https://itnext.io/6-kubectl-plugins-you-must-try-1411dcbcf950)
 
