@@ -6,6 +6,7 @@
 
 # deployment
 [Empowering Developers with Kubernetes Deployments](https://faun.pub/empowering-developers-with-kubernetes-deployments-b4b7867349a9)
+[Tips To Harden Your Kubernetes Security](https://faun.pub/tips-to-harden-your-kubernetes-security-2cd2827f6a23)
 # kubernetes
 + [6 kubectl plugins you must try](https://itnext.io/6-kubectl-plugins-you-must-try-1411dcbcf950)
 
