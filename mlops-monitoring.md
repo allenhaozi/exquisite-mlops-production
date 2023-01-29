@@ -47,6 +47,7 @@ model and data
 + [Why data drift detection is important and how do you automate it in 5 simple steps](https://towardsdatascience.com/why-data-drift-detection-is-important-and-how-do-you-automate-it-in-5-simple-steps-96d611095d93) :blush: `data drift tutorial`
 
 ## Data Quality
++ [How to Create a Data Quality Framework](https://towardsdatascience.com/how-to-create-a-data-quality-framework-6887dea268ae)
 + [Data Quality Monitoring in Apache Airflow with whylogs](https://medium.com/whylabs/data-quality-monitoring-in-apache-airflow-with-whylogs-f5ec71b3db05)
 + [Add Data Profiling and Assertions to dbt with PipeRider](https://medium.com/infuseai/add-data-profiling-and-assertions-to-dbt-with-piperider-732ca0821e3a)
 + [Data Governance Part 3 — Data Quality](https://medium.com/@kanchan.tewary/data-governance-part-3-data-quality-887de3a41e49)

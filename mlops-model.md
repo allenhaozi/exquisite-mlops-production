@@ -2,6 +2,7 @@
 
 
 ## Model Serving
++ [Intro to MLOps model life cycle from a Data Engineer’s eyes](https://itnext.io/intro-to-mlops-model-life-cycle-from-a-data-engineers-eyes-b9347440fae4)
 + [Serving ML models at scale using Mlflow on Kubernetes](https://medium.com/artefact-engineering-and-data-science/serving-ml-models-at-scale-using-mlflow-on-kubernetes-a83390718a92)
 + [Best practices in the deployment of AI models](https://nagahemachandchinta.medium.com/best-practices-in-the-deployment-of-ai-models-c929c3146416)
 
