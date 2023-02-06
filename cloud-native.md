@@ -11,7 +11,9 @@
 + [Empowering Developers with Kubernetes Deployments](https://faun.pub/empowering-developers-with-kubernetes-deployments-b4b7867349a9)
 + [Tips To Harden Your Kubernetes Security](https://faun.pub/tips-to-harden-your-kubernetes-security-2cd2827f6a23)
 # kubernetes
++ [Kubernetes CLI tools I use Everyday](https://guyzsarun.medium.com/kubernetes-cli-tools-i-use-everyday-a7e942f37571)
 + [6 kubectl plugins you must try](https://itnext.io/6-kubectl-plugins-you-must-try-1411dcbcf950)
+
 
 # log
 + [Top Kubernetes log monitoring tools](https://medium.com/codex/5-top-kubernetes-log-monitoring-tools-d8c0494deb30)
@@ -25,6 +27,7 @@
 + [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 
 # Monitoring
++ [18 Kubernetes Metrics to Monitor for Optimal Cluster Performance](https://medium.com/@bregman.arie/18-kubernetes-metrics-to-monitor-for-optimal-cluster-performance-ca9458869e52)
 + [Kubernetes Operator for Multi-clusters Usage Tracking, Analytics and Accounting)(https://itnext.io/kubernetes-operator-for-multi-clusters-usage-tracking-analytics-and-accounting-dd69c14bdd38)
 + [Federating Prometheus Effectively](https://levelup.gitconnected.com/federating-prometheus-effectively-4ccd51b2767b)
 + [Popeye — A Kubernetes Cluster Sanitizer](https://ajeetraina.medium.com/popeye-a-kubernetes-cluster-sanitizer-1914723eb21d) :poodle: `scans live Kubernetes cluster and reports potential issues with deployed resources and configurations`
