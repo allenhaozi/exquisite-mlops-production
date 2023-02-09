@@ -8,6 +8,7 @@
 # helm
 + [HELM — Template Control Flow](https://blog.devgenius.io/helm-template-control-flow-5501d3eace7d)
 # deployment
++ [Kubernetes Deployment Strategy Explained](https://blog.devgenius.io/kubernetes-deployment-strategy-explained-bf27fea088e1)
 + [Empowering Developers with Kubernetes Deployments](https://faun.pub/empowering-developers-with-kubernetes-deployments-b4b7867349a9)
 + [Tips To Harden Your Kubernetes Security](https://faun.pub/tips-to-harden-your-kubernetes-security-2cd2827f6a23)
 # kubernetes
