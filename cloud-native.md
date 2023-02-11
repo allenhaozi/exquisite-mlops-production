@@ -57,3 +57,6 @@
 
 ## Container
 + [K8s — Write Efficient Dockerfile](https://tonylixu.medium.com/k8s-write-efficient-dockerfile-caf099aa17f4)
+
+## CICD
++ [werf CI/CD tool becomes a CNCF project!](https://medium.com/werf-io/werf-joins-cncf-4767462dd8a6)
