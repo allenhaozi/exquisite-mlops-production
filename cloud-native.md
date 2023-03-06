@@ -1,9 +1,10 @@
-+ [Top Infrastructure as Code (IaC) Tools 2022)(https://medium.com/@argonaut.dev/top-infrastructure-as-code-iac-tools-2022-7ce1205c4d0d)
++ [Top Infrastructure as Code (IaC) Tools 2022](https://medium.com/@argonaut.dev/top-infrastructure-as-code-iac-tools-2022-7ce1205c4d0d)
 + [We Pushed Helm to the Limit—then Built a Kubernetes Operator](https://datastax.medium.com/we-pushed-helm-to-the-limit-then-built-a-kubernetes-operator-5136f7c71e91)
 + [8 open source project you should try out](https://medium.com/@itsrakesh/8-best-opensource-projects-you-should-try-out-c0637d3c6ed3)
 
 + [10 New DevOps Tools to Watch in 2023](https://medium.com/4th-coffee/10-new-devops-tools-to-watch-in-2023-e974dbb1f1bb)
 + [The Top 10 Products From KubeCon North America 2022](https://medium.com/@rphilogene/the-top-10-products-from-kubecon-north-america-2022-a6a8c0902427)
++ [8 Kubernetes tools you would really love to know](https://medium.com/@dekel_malul/8-kubernetes-tools-you-would-really-love-to-know-ac75bfaff24d)
 
 # helm
 + [HELM — Template Control Flow](https://blog.devgenius.io/helm-template-control-flow-5501d3eace7d)
