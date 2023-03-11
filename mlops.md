@@ -40,6 +40,7 @@
 + [Feature Engineering on the Modern Data Stack](https://medium.com/@jordan_volz/feature-engineering-on-the-modern-data-stack-86387a001b41) `feature`
 
 # Open Source
++ [Top 15 best Open-Source MLOps tools in 2023](https://medium.com/datadriveninvestor/top-15-best-open-source-mlops-tools-in-2023-c46a0f104b2c)
 + [Level Up Your MLOps Journey with Kedro](https://towardsdatascience.com/level-up-your-mlops-journey-with-kedro-5f000e5d0aa0) 
 + [Building an Open Source ML Pipeline: Part 1](https://towardsdatascience.com/building-an-open-source-ml-pipeline-part-1-5b52d06351d1) `open source`
 # compute
