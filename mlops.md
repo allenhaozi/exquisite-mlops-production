@@ -10,7 +10,7 @@
 + [ML Platform User Experience: Build for Data Scientists](https://medium.com/@arpeetkale/ml-platform-user-experience-research-to-production-4f68c7b97be4) `ML platform principle`
 + [Towards MLOps: Technical capabilities of a Machine Learning platform](https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281) `mlops tutorial`
 ## overview
-
++ [MLOps Automation](https://medium.com/@weiyunna91/mlops-automation-ci-cd-ct-for-machine-learning-ml-pipelines-5f7cc343e002)
 + [What I Learned From Attending MLOps World 2021](https://data-notes.co/what-i-learned-from-attending-mlops-world-2021-e4cffb6cdd0b) :tada: `recommender mlops`
 + [A Complete MLOps Toolbox](https://medium.com/rappibank/a-complete-mlops-toolbox-9c37f8ef5500)
 + [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
