@@ -52,6 +52,7 @@
 + [Debug Network Traffic in Kubernetes using a Sidecar](https://medium.com/@rakhitharr/debug-network-traffic-in-kubernetes-using-a-sidecar-fd1671d8a35b)
 
 # dev 
++ [The Perfect Text Editor for Jupyter: A Complete Python IDE](https://towardsdatascience.com/the-perfect-text-editor-for-jupyter-a-complete-python-ide-608dd466560b)
 + [Navigating ML Deployment](https://towardsdatascience.com/navigating-ml-deployment-34e35a18d514)
 + [A Brief Introduction to Azure Machine Learning Studio](https://towardsdatascience.com/a-brief-introduction-to-azure-machine-learning-studio-9bbf41800a60)
 
