@@ -1,6 +1,7 @@
 # Data
 
 ## Overview
++ [On Data Products and how to describe them](https://medium.com/@maxillis/on-data-products-and-how-to-describe-them-76ae1b7abda4)
 + [Data Warehouse Tech Stack with PostgreSQL, DBT, Airflow, and Redash](https://medium.com/@degagawolde/data-warehouse-tech-stack-with-postgresql-dbt-airflow-and-redash-a49f238dbeda)
 + [Into the data engineering](https://medium.com/@natnaelmasresha/into-the-data-engineering-34d2457cdc03)
 + [What’s Next in the Modern Data Stack?](https://medium.com/inkef-capital/whats-next-in-the-modern-data-stack-69afa3aa6df9)
