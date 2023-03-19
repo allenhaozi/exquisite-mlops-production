@@ -4,7 +4,6 @@
 + [On Data Products and how to describe them](https://medium.com/@maxillis/on-data-products-and-how-to-describe-them-76ae1b7abda4)
 + [Data Warehouse Tech Stack with PostgreSQL, DBT, Airflow, and Redash](https://medium.com/@degagawolde/data-warehouse-tech-stack-with-postgresql-dbt-airflow-and-redash-a49f238dbeda)
 + [Into the data engineering](https://medium.com/@natnaelmasresha/into-the-data-engineering-34d2457cdc03)
-+ [What’s Next in the Modern Data Stack?](https://medium.com/inkef-capital/whats-next-in-the-modern-data-stack-69afa3aa6df9)
 + [Who’s Who in the Modern Data Stack Ecosystem (Spring 2022)](https://medium.com/@jordan_volz/whos-who-in-the-modern-data-stack-ecosystem-spring-2022-c45854653dc4)
 + [2022 Technology Landscape to Democratize Data](https://modern-cdo.medium.com/2022-technology-landscape-to-democratize-data-272b8228b6cb) `from raw data to insights, discover pre build operationalize`
 + [The Future of the Modern Data Stack in 2022](https://medium.com/towards-data-science/the-future-of-the-modern-data-stack-in-2022-4f4c91bb778f) ``
