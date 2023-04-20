@@ -21,6 +21,7 @@
 
 
 ## Python
++ [How to Debug Your Microservice Python Code Running Remotely in Docker](https://python.plainenglish.io/how-to-debug-your-microservice-python-code-running-remotely-in-docker-7d389ab340d)
 + [5 Python Decorators I Use in Almost All My Data Science Projects](https://medium.com/towards-data-science/python-decorators-for-data-science-6913f717669a)
 + [Python YAML configuration with environment variables parsing](https://medium.com/swlh/python-yaml-configuration-with-environment-variables-parsing-77930f4273ac)
 + [Time Series Libraries for Python](https://alpersinbalc.medium.com/time-series-libraries-for-python-4e41e9d0328b)
