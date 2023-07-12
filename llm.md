@@ -1,3 +1,5 @@
+# LLM
+- [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
 # Fine-Tuning
 - [LoRA](https://huggingface.co/docs/diffusers/main/en/training/lora)
 - [QLoRa: Fine-Tune a Large Language Model on Your GPU](https://towardsdatascience.com/qlora-fine-tune-a-large-language-model-on-your-gpu-27bed5a03e2b)
